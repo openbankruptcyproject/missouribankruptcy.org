@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://missouribankruptcy.org/sitemap.xml
