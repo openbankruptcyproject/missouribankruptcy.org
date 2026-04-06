@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main pages -->
   <url><loc>https://missouribankruptcy.org/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://missouribankruptcy.org/chapter-7.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://missouribankruptcy.org/chapter-13.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -8,4 +9,65 @@
   <url><loc>https://missouribankruptcy.org/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://missouribankruptcy.org/statistics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://missouribankruptcy.org/resources.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- Kansas City -->
+  <url><loc>https://missouribankruptcy.org/kansas-city/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/chapter-7.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/chapter-13.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/exemptions.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/cost.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/means-test.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/automatic-stay.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/keep-your-car.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/keep-your-house.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/medical-debt.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/wage-garnishment.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/student-loans.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/341-meeting.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/checklist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/timeline.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- Kansas City Suburbs - MO side -->
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/independence.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/lees-summit.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/blue-springs.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/liberty.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/gladstone.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/raytown.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/grandview.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- Kansas City Suburbs - KS side -->
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/overland-park.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/olathe.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/shawnee.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/lenexa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/kansas-city/suburbs/leawood.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- St. Louis -->
+  <url><loc>https://missouribankruptcy.org/st-louis/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/chapter-7.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/chapter-13.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/exemptions.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/cost.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/means-test.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/automatic-stay.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/keep-your-car.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/keep-your-house.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/medical-debt.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/wage-garnishment.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/student-loans.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/341-meeting.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/checklist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/timeline.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- St. Louis Suburbs -->
+  <url><loc>https://missouribankruptcy.org/st-louis/suburbs/st-charles.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/suburbs/ofallon.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/suburbs/florissant.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/suburbs/chesterfield.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/suburbs/ballwin.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://missouribankruptcy.org/st-louis/suburbs/kirkwood.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- Springfield -->
+  <url><loc>https://missouribankruptcy.org/springfield/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://missouribankruptcy.org/springfield/chapter-7.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/springfield/chapter-13.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/springfield/exemptions.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://missouribankruptcy.org/springfield/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
