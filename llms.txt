@@ -1,106 +1,107 @@
-# Missouri Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Missouri Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Free Missouri bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Missouri exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 missouribankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Missouri Bankruptcy -- Chapter 7 & 13 Filing Guide: https://missouribankruptcy.org/
-- Chapter 7 Bankruptcy in Missouri -- Eligibility, Exemptions, Timeline: https://missouribankruptcy.org/chapter-7.html
-- Chapter 13 Bankruptcy in Missouri -- Payment Plans, Timeline: https://missouribankruptcy.org/chapter-13.html
-- Missouri Bankruptcy Exemptions -- What You Can Keep: https://missouribankruptcy.org/exemptions.html
-- How Much Does Bankruptcy Cost in Missouri? -- Filing Fees, Attorney Fees: https://missouribankruptcy.org/cost.html
-- Missouri Bankruptcy FAQ -- 15 Common Questions Answered: https://missouribankruptcy.org/faq.html
-- Missouri Bankruptcy Statistics -- Filing Data and Trends: https://missouribankruptcy.org/statistics.html
-- Missouri Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://missouribankruptcy.org/resources.html
-- Bankruptcy in Kansas City, Missouri -- Complete Guide: https://missouribankruptcy.org/kansas-city/
-- Chapter 7 Bankruptcy in Kansas City -- Eligibility, Exemptions, Timeline -- Missouri: https://missouribankruptcy.org/kansas-city/chapter-7.html
-- Chapter 13 Bankruptcy in Kansas City -- Payment Plans, Dismissal Rates -- Missouri: https://missouribankruptcy.org/kansas-city/chapter-13.html
-- Missouri Bankruptcy Exemptions -- Kansas City: https://missouribankruptcy.org/kansas-city/exemptions.html
-- Bankruptcy Cost in Kansas City -- Filing Fees, Attorney Fees -- Missouri: https://missouribankruptcy.org/kansas-city/cost.html
-- Kansas City Bankruptcy FAQ -- Common Questions Answered -- Missouri: https://missouribankruptcy.org/kansas-city/faq.html
-- Kansas City Means Test: Do You Qualify for Chapter 7? -- Missouri: https://missouribankruptcy.org/kansas-city/means-test.html
-- The Automatic Stay in Kansas City Bankruptcy -- Missouri: https://missouribankruptcy.org/kansas-city/automatic-stay.html
-- Can I Keep My Car in Kansas City Bankruptcy? -- Missouri: https://missouribankruptcy.org/kansas-city/keep-your-car.html
-- Can I Keep My House in Kansas City Bankruptcy? -- Missouri: https://missouribankruptcy.org/kansas-city/keep-your-house.html
-- Medical Debt and Bankruptcy in Kansas City -- Missouri: https://missouribankruptcy.org/kansas-city/medical-debt.html
-- Stop Wage Garnishment in Kansas City -- Missouri: https://missouribankruptcy.org/kansas-city/wage-garnishment.html
-- Student Loans and Bankruptcy in Kansas City -- Missouri: https://missouribankruptcy.org/kansas-city/student-loans.html
-- The 341 Meeting of Creditors in Kansas City -- Missouri: https://missouribankruptcy.org/kansas-city/341-meeting.html
-- Kansas City Bankruptcy Filing Checklist -- Missouri: https://missouribankruptcy.org/kansas-city/checklist.html
-- Kansas City Bankruptcy Timeline -- What to Expect -- Missouri: https://missouribankruptcy.org/kansas-city/timeline.html
-- Bankruptcy in Independence, MO -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/independence.html
-- Bankruptcy in Lee's Summit, MO -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/lees-summit.html
-- Bankruptcy in Blue Springs, MO -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/blue-springs.html
-- Bankruptcy in Liberty, MO -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/liberty.html
-- Bankruptcy in Gladstone, MO -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/gladstone.html
-- Bankruptcy in Raytown, MO -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/raytown.html
-- Bankruptcy in Grandview, MO -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/grandview.html
-- Bankruptcy in Overland Park, KS -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/overland-park.html
-- Bankruptcy in Olathe, KS -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/olathe.html
-- Bankruptcy in Shawnee, KS -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/shawnee.html
-- Bankruptcy in Lenexa, KS -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/lenexa.html
-- Bankruptcy in Leawood, KS -- Missouri: https://missouribankruptcy.org/kansas-city/suburbs/leawood.html
-- Bankruptcy in St. Louis, Missouri -- Complete Guide: https://missouribankruptcy.org/st-louis/
-- Chapter 7 Bankruptcy in St. Louis -- Missouri: https://missouribankruptcy.org/st-louis/chapter-7.html
-- Chapter 13 Bankruptcy in St. Louis -- Missouri: https://missouribankruptcy.org/st-louis/chapter-13.html
-- Missouri Bankruptcy Exemptions -- St. Louis: https://missouribankruptcy.org/st-louis/exemptions.html
-- How Much Does Bankruptcy Cost in St. Louis? -- Missouri: https://missouribankruptcy.org/st-louis/cost.html
-- St. Louis Bankruptcy FAQ -- Missouri: https://missouribankruptcy.org/st-louis/faq.html
-- St. Louis Means Test: Do You Qualify for Chapter 7? -- Missouri: https://missouribankruptcy.org/st-louis/means-test.html
-- The Automatic Stay in St. Louis Bankruptcy -- Missouri: https://missouribankruptcy.org/st-louis/automatic-stay.html
-- Can I Keep My Car in St. Louis Bankruptcy? -- Missouri: https://missouribankruptcy.org/st-louis/keep-your-car.html
-- Can I Keep My House in St. Louis Bankruptcy? -- Missouri: https://missouribankruptcy.org/st-louis/keep-your-house.html
-- Medical Debt and Bankruptcy in St. Louis -- Missouri: https://missouribankruptcy.org/st-louis/medical-debt.html
-- Stop Wage Garnishment in St. Louis -- Missouri: https://missouribankruptcy.org/st-louis/wage-garnishment.html
-- Student Loans and Bankruptcy in St. Louis -- Missouri: https://missouribankruptcy.org/st-louis/student-loans.html
-- The 341 Meeting in St. Louis Bankruptcy -- Missouri: https://missouribankruptcy.org/st-louis/341-meeting.html
-- St. Louis Bankruptcy Filing Checklist -- Missouri: https://missouribankruptcy.org/st-louis/checklist.html
-- St. Louis Bankruptcy Timeline -- Missouri: https://missouribankruptcy.org/st-louis/timeline.html
-- Bankruptcy in St. Charles, MO -- Missouri: https://missouribankruptcy.org/st-louis/suburbs/st-charles.html
-- Bankruptcy in O'Fallon, MO -- Missouri: https://missouribankruptcy.org/st-louis/suburbs/ofallon.html
-- Bankruptcy in Florissant, MO -- Missouri: https://missouribankruptcy.org/st-louis/suburbs/florissant.html
-- Bankruptcy in Chesterfield, MO -- Missouri: https://missouribankruptcy.org/st-louis/suburbs/chesterfield.html
-- Bankruptcy in Ballwin, MO -- Missouri: https://missouribankruptcy.org/st-louis/suburbs/ballwin.html
-- Bankruptcy in Kirkwood, MO -- Missouri: https://missouribankruptcy.org/st-louis/suburbs/kirkwood.html
-- Bankruptcy in Springfield, Missouri: https://missouribankruptcy.org/springfield/
-- Chapter 7 Bankruptcy in Springfield, Missouri: https://missouribankruptcy.org/springfield/chapter-7.html
-- Chapter 13 Bankruptcy in Springfield, Missouri: https://missouribankruptcy.org/springfield/chapter-13.html
-- Missouri Exemptions for Springfield Filers: https://missouribankruptcy.org/springfield/exemptions.html
-- Springfield Bankruptcy FAQ -- Missouri: https://missouribankruptcy.org/springfield/faq.html
-- Emergency Bankruptcy Filing in Missouri: https://missouribankruptcy.org/emergency-bankruptcy.html
-- Divorce and Bankruptcy in Missouri: https://missouribankruptcy.org/divorce-and-bankruptcy.html
-- Credit Card Debt and Bankruptcy in Missouri: https://missouribankruptcy.org/credit-card-debt.html
-- Converting Bankruptcy Chapters in Missouri: https://missouribankruptcy.org/converting-chapters.html
-- Chapter 7 Bankruptcy Eligibility in Missouri: https://missouribankruptcy.org/chapter-7-eligibility.html
-- Chapter 13 Bankruptcy Eligibility in Missouri: https://missouribankruptcy.org/chapter-13-eligibility.html
-- Buying a House After Bankruptcy in Missouri: https://missouribankruptcy.org/buying-a-house.html
-- Missouri Bankruptcy Glossary: https://missouribankruptcy.org/glossary.html
-- Payday Loans and Bankruptcy in Missouri: https://missouribankruptcy.org/payday-loans.html
-- Judgments and Bankruptcy in Missouri: https://missouribankruptcy.org/judgments.html
-- Second Mortgages and Bankruptcy in Missouri: https://missouribankruptcy.org/second-mortgage.html
 - Bank Accounts and Bankruptcy in Missouri: https://missouribankruptcy.org/bank-account.html
-- Chapter 13 Payments in Missouri: https://missouribankruptcy.org/chapter-13-payments.html
-- Bankruptcy Income Limits in Missouri: https://missouribankruptcy.org/income-limits.html
-- Bankruptcy Disqualifications in Missouri: https://missouribankruptcy.org/disqualifications.html
 - Can I Buy a Car While in Chapter 13 in Missouri?: https://missouribankruptcy.org/buy-car-chapter-13.html
-- Can Bankruptcy Stop an Eviction in Missouri?: https://missouribankruptcy.org/eviction.html
+- Buying a House After Bankruptcy in Missouri: https://missouribankruptcy.org/buying-a-house.html
 - Car Leases and Bankruptcy in Missouri: https://missouribankruptcy.org/car-lease.html
+- Chapter 13 Bankruptcy Eligibility in Missouri: https://missouribankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Payments in Missouri: https://missouribankruptcy.org/chapter-13-payments.html
+- Chapter 13 Bankruptcy in Missouri - Payment Plans, Timeline: https://missouribankruptcy.org/chapter-13.html
+- Chapter 7 Bankruptcy Eligibility in Missouri: https://missouribankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Bankruptcy in Missouri - Eligibility, Exemptions, Timeline: https://missouribankruptcy.org/chapter-7.html
+- Converting Bankruptcy Chapters in Missouri: https://missouribankruptcy.org/converting-chapters.html
+- How Much Does Bankruptcy Cost in Missouri? - Filing Fees, Attorney Fees: https://missouribankruptcy.org/cost.html
+- Credit Card Debt and Bankruptcy in Missouri: https://missouribankruptcy.org/credit-card-debt.html
+- Using Credit Cards Before Bankruptcy in Missouri: https://missouribankruptcy.org/credit-cards-before-filing.html
+- Bankruptcy Disqualifications in Missouri: https://missouribankruptcy.org/disqualifications.html
+- Divorce and Bankruptcy in Missouri: https://missouribankruptcy.org/divorce-and-bankruptcy.html
+- Emergency Bankruptcy Filing in Missouri: https://missouribankruptcy.org/emergency-bankruptcy.html
+- Bankruptcy and Employment in Missouri - Discrimination, Hiring, Your Rights: https://missouribankruptcy.org/employment.html
+- Can I Keep My Jewelry in Missouri Bankruptcy?: https://missouribankruptcy.org/engagement-ring.html
+- Can Bankruptcy Stop an Eviction in Missouri?: https://missouribankruptcy.org/eviction.html
+- Missouri Bankruptcy Exemptions - What You Can Keep: https://missouribankruptcy.org/exemptions.html
+- Missouri Bankruptcy FAQ - 15 Common Questions Answered: https://missouribankruptcy.org/faq.html
+- How to Find Bankruptcy Filings in Missouri: https://missouribankruptcy.org/find-bankruptcy-filing.html
+- Missouri Bankruptcy Glossary: https://missouribankruptcy.org/glossary.html
+- Bankruptcy Income Limits in Missouri: https://missouribankruptcy.org/income-limits.html
+- Missouri Bankruptcy - Chapter 7 & 13 Filing Guide: https://missouribankruptcy.org/
+- Judgments and Bankruptcy in Missouri: https://missouribankruptcy.org/judgments.html
+- The 341 Meeting of Creditors in Kansas City - Missouri: https://missouribankruptcy.org/kansas-city/341-meeting.html
+- The Automatic Stay in Kansas City Bankruptcy - Missouri: https://missouribankruptcy.org/kansas-city/automatic-stay.html
+- Chapter 13 Bankruptcy in Kansas City - Payment Plans, Dismissal Rates - Missouri: https://missouribankruptcy.org/kansas-city/chapter-13.html
+- Chapter 7 Bankruptcy in Kansas City - Eligibility, Exemptions, Timeline - Missouri: https://missouribankruptcy.org/kansas-city/chapter-7.html
+- Kansas City Bankruptcy Filing Checklist - Missouri: https://missouribankruptcy.org/kansas-city/checklist.html
+- Bankruptcy Cost in Kansas City - Filing Fees, Attorney Fees - Missouri: https://missouribankruptcy.org/kansas-city/cost.html
+- Missouri Bankruptcy Exemptions - Kansas City: https://missouribankruptcy.org/kansas-city/exemptions.html
+- Kansas City Bankruptcy FAQ - Common Questions Answered - Missouri: https://missouribankruptcy.org/kansas-city/faq.html
+- Bankruptcy in Kansas City, Missouri - Complete Guide: https://missouribankruptcy.org/kansas-city/
+- Can I Keep My Car in Kansas City Bankruptcy? - Missouri: https://missouribankruptcy.org/kansas-city/keep-your-car.html
+- Can I Keep My House in Kansas City Bankruptcy? - Missouri: https://missouribankruptcy.org/kansas-city/keep-your-house.html
+- Kansas City Means Test: Do You Qualify for Chapter 7? - Missouri: https://missouribankruptcy.org/kansas-city/means-test.html
+- Medical Debt and Bankruptcy in Kansas City - Missouri: https://missouribankruptcy.org/kansas-city/medical-debt.html
+- Student Loans and Bankruptcy in Kansas City - Missouri: https://missouribankruptcy.org/kansas-city/student-loans.html
+- Bankruptcy in Blue Springs, MO - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/blue-springs.html
+- Bankruptcy in Gladstone, MO - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/gladstone.html
+- Bankruptcy in Grandview, MO - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/grandview.html
+- Bankruptcy in Independence, MO - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/independence.html
+- Bankruptcy in Leawood, KS - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/leawood.html
+- Bankruptcy in Lee's Summit, MO - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/lees-summit.html
+- Bankruptcy in Lenexa, KS - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/lenexa.html
+- Bankruptcy in Liberty, MO - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/liberty.html
+- Bankruptcy in Olathe, KS - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/olathe.html
+- Bankruptcy in Overland Park, KS - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/overland-park.html
+- Bankruptcy in Raytown, MO - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/raytown.html
+- Bankruptcy in Shawnee, KS - Missouri: https://missouribankruptcy.org/kansas-city/suburbs/shawnee.html
+- Kansas City Bankruptcy Timeline - What to Expect - Missouri: https://missouribankruptcy.org/kansas-city/timeline.html
+- Stop Wage Garnishment in Kansas City - Missouri: https://missouribankruptcy.org/kansas-city/wage-garnishment.html
+- Filing Bankruptcy for Medical Debt in Missouri - Discharge, Alternatives, Protections: https://missouribankruptcy.org/medical-debt-only.html
+- Payday Loans and Bankruptcy in Missouri: https://missouribankruptcy.org/payday-loans.html
+- Undoing a Reaffirmation Agreement in Missouri - 60-Day Rescission, Options: https://missouribankruptcy.org/reaffirmation-regret.html
+- Renting After Bankruptcy in Missouri - Landlord Screening, Tips, Tenant Rights: https://missouribankruptcy.org/renting-after-bankruptcy.html
+- Repossession and Credit Reports After Bankruptcy in Missouri: https://missouribankruptcy.org/repo-credit-report.html
+- Missouri Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://missouribankruptcy.org/resources.html
+- Can I Keep My 401k and Retirement in Missouri Bankruptcy?: https://missouribankruptcy.org/retirement-accounts.html
+- Second Mortgages and Bankruptcy in Missouri: https://missouribankruptcy.org/second-mortgage.html
+- Bankruptcy and Security Clearance in Missouri - Will I Lose My Clearance?: https://missouribankruptcy.org/security-clearance.html
+- Chapter 13 Bankruptcy in Springfield, Missouri: https://missouribankruptcy.org/springfield/chapter-13.html
+- Chapter 7 Bankruptcy in Springfield, Missouri: https://missouribankruptcy.org/springfield/chapter-7.html
+- Missouri Exemptions for Springfield Filers: https://missouribankruptcy.org/springfield/exemptions.html
+- Springfield Bankruptcy FAQ - Missouri: https://missouribankruptcy.org/springfield/faq.html
+- Bankruptcy in Springfield, Missouri: https://missouribankruptcy.org/springfield/
+- The 341 Meeting in St. Louis Bankruptcy - Missouri: https://missouribankruptcy.org/st-louis/341-meeting.html
+- The Automatic Stay in St. Louis Bankruptcy - Missouri: https://missouribankruptcy.org/st-louis/automatic-stay.html
+- Chapter 13 Bankruptcy in St. Louis - Missouri: https://missouribankruptcy.org/st-louis/chapter-13.html
+- Chapter 7 Bankruptcy in St. Louis - Missouri: https://missouribankruptcy.org/st-louis/chapter-7.html
+- St. Louis Bankruptcy Filing Checklist - Missouri: https://missouribankruptcy.org/st-louis/checklist.html
+- How Much Does Bankruptcy Cost in St. Louis? - Missouri: https://missouribankruptcy.org/st-louis/cost.html
+- Missouri Bankruptcy Exemptions - St. Louis: https://missouribankruptcy.org/st-louis/exemptions.html
+- St. Louis Bankruptcy FAQ - Missouri: https://missouribankruptcy.org/st-louis/faq.html
+- Bankruptcy in St. Louis, Missouri - Complete Guide: https://missouribankruptcy.org/st-louis/
+- Can I Keep My Car in St. Louis Bankruptcy? - Missouri: https://missouribankruptcy.org/st-louis/keep-your-car.html
+- Can I Keep My House in St. Louis Bankruptcy? - Missouri: https://missouribankruptcy.org/st-louis/keep-your-house.html
+- St. Louis Means Test: Do You Qualify for Chapter 7? - Missouri: https://missouribankruptcy.org/st-louis/means-test.html
+- Medical Debt and Bankruptcy in St. Louis - Missouri: https://missouribankruptcy.org/st-louis/medical-debt.html
+- Student Loans and Bankruptcy in St. Louis - Missouri: https://missouribankruptcy.org/st-louis/student-loans.html
+- Bankruptcy in Ballwin, MO - Missouri: https://missouribankruptcy.org/st-louis/suburbs/ballwin.html
+- Bankruptcy in Chesterfield, MO - Missouri: https://missouribankruptcy.org/st-louis/suburbs/chesterfield.html
+- Bankruptcy in Florissant, MO - Missouri: https://missouribankruptcy.org/st-louis/suburbs/florissant.html
+- Bankruptcy in Kirkwood, MO - Missouri: https://missouribankruptcy.org/st-louis/suburbs/kirkwood.html
+- Bankruptcy in O'Fallon, MO - Missouri: https://missouribankruptcy.org/st-louis/suburbs/ofallon.html
+- Bankruptcy in St. Charles, MO - Missouri: https://missouribankruptcy.org/st-louis/suburbs/st-charles.html
+- St. Louis Bankruptcy Timeline - Missouri: https://missouribankruptcy.org/st-louis/timeline.html
+- Stop Wage Garnishment in St. Louis - Missouri: https://missouribankruptcy.org/st-louis/wage-garnishment.html
+- Missouri Bankruptcy Statistics - Filing Data and Trends: https://missouribankruptcy.org/statistics.html
+- What Bills to Stop Paying Before Bankruptcy in Missouri: https://missouribankruptcy.org/stop-paying-bills.html
+- Surrendering Your Car in Missouri Bankruptcy - Process, Deficiency, Options: https://missouribankruptcy.org/surrender-car.html
+- Tax Refunds and Chapter 13 in Missouri - Trustee Practices, Protecting Your Refund: https://missouribankruptcy.org/tax-refund-chapter13.html
 - Timeshares and Bankruptcy in Missouri: https://missouribankruptcy.org/timeshare.html
 - Can I Travel During Chapter 13 in Missouri?: https://missouribankruptcy.org/travel-chapter-13.html
-- What Bills to Stop Paying Before Bankruptcy in Missouri: https://missouribankruptcy.org/stop-paying-bills.html
-- Using Credit Cards Before Bankruptcy in Missouri: https://missouribankruptcy.org/credit-cards-before-filing.html
-- How to Find Bankruptcy Filings in Missouri: https://missouribankruptcy.org/find-bankruptcy-filing.html
-- Repossession and Credit Reports After Bankruptcy in Missouri: https://missouribankruptcy.org/repo-credit-report.html
-- Can I Keep My Jewelry in Missouri Bankruptcy?: https://missouribankruptcy.org/engagement-ring.html
-- Can I Keep My 401k and Retirement in Missouri Bankruptcy?: https://missouribankruptcy.org/retirement-accounts.html
-- Renting After Bankruptcy in Missouri -- Landlord Screening, Tips, Tenant Rights: https://missouribankruptcy.org/renting-after-bankruptcy.html
-- Bankruptcy and Security Clearance in Missouri -- Will I Lose My Clearance?: https://missouribankruptcy.org/security-clearance.html
-- Undoing a Reaffirmation Agreement in Missouri -- 60-Day Rescission, Options: https://missouribankruptcy.org/reaffirmation-regret.html
-- Tax Refunds and Chapter 13 in Missouri -- Trustee Practices, Protecting Your Refund: https://missouribankruptcy.org/tax-refund-chapter13.html
-- Surrendering Your Car in Missouri Bankruptcy -- Process, Deficiency, Options: https://missouribankruptcy.org/surrender-car.html
-- Filing Bankruptcy for Medical Debt in Missouri -- Discharge, Alternatives, Protections: https://missouribankruptcy.org/medical-debt-only.html
-- Bankruptcy and Employment in Missouri -- Discrimination, Hiring, Your Rights: https://missouribankruptcy.org/employment.html
+- Privacy Policy: https://missouribankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
