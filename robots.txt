@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://missouribankruptcy.org/sitemap.xml
 
-Sitemap: https://missouribankruptcy.org/feed.xml
+
+Sitemap: https://missouribankruptcy.org/sitemapindex.xml
