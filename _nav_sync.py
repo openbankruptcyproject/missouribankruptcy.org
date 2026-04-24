@@ -11,13 +11,13 @@ ROOT = Path(__file__).parent
 CANONICAL_LINKS = (
     '<div class="links">'
     '<a href="/">Home</a>'
-    '<a href="chapter-7.html">Chapter 7</a>'
-    '<a href="chapter-13.html">Chapter 13</a>'
-    '<a href="exemptions.html">Exemptions</a>'
     '<a href="districts.html">Districts</a>'
+    '<a href="income-limits.html">Means Test</a>'
+    '<a href="exemptions.html">Exemptions</a>'
     '<a href="trustees.html">Trustees</a>'
+    '<a href="legal-aid.html">Legal Aid</a>'
+    '<a href="case-law.html">Case Law</a>'
     '<a href="resources.html">Resources</a>'
-    '<a href="faq.html">FAQ</a>'
     '<a href="https://openbankruptcyproject.org">OBP</a>'
     '</div>'
 )
