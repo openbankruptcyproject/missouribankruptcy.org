@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Missouri Bankruptcy Courts - Western &amp; Eastern Districts Guide</title>
+<meta content="Complete guide to the two U.S. Bankruptcy Courts in Missouri: W.D. Mo. (Kansas City, Jefferson City, St. Joseph, Springfield) and E.D. Mo. (St. Louis, Cape Girardeau, Hannibal). Judges, clerk contacts, electronic filing, local rules, venue rules, pro se procedures." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://missouribankruptcy.org/districts.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How many federal bankruptcy courts does Missouri have?", "acceptedAnswer": {"@type": "Answer", "text": "Two. The U.S. Bankruptcy Court for the Western District of Missouri (W.D. Mo.) and the U.S. Bankruptcy Court for the Eastern District of Missouri (E.D. Mo.). Which court you file in depends on where you have lived (or maintained your principal place of business) for the greater part of the 180 days before filing, per 28 U.S.C. Section 1408."}}, {"@type": "Question", "name": "Who are the current W.D. Mo. bankruptcy judges?", "acceptedAnswer": {"@type": "Answer", "text": "Chief Judge Cynthia A. Norton and Judge Brian T. Fenimore. The court has divisional offices in Kansas City, Jefferson City, St. Joseph, and Springfield."}}, {"@type": "Question", "name": "Who are the current E.D. Mo. bankruptcy judges?", "acceptedAnswer": {"@type": "Answer", "text": "Chief Judge Bonnie L. Clair, Judge Kathy A. Surratt-States, and Judge Brian C. Walsh. The clerk of court is Dana C. McWay. The primary courthouse is the Thomas F. Eagleton U.S. Courthouse at 111 South 10th Street, 4th Floor, St. Louis, MO 63102."}}, {"@type": "Question", "name": "Can I file bankruptcy online in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Both Missouri bankruptcy districts support electronic filing. W.D. Mo. uses CM/ECF at ecf.mowb.uscourts.gov; pro se filers can request a filer ID from the clerk. E.D. Mo. offers two dedicated pro se tools: eSR (Electronic Self-Representation) for starting a new voluntary petition online, and EDSS (Electronic Document Submission System) for filings in an existing case."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Missouri Bankruptcy Courts - Western and Eastern Districts", "description": "Complete guide to the two federal bankruptcy courts in Missouri, with judges, clerk contacts, electronic filing procedures, and local rules.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}, "datePublished": "2026-04-22", "dateModified": "2026-04-22", "mainEntityOfPage": "https://missouribankruptcy.org/districts.html"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://missouribankruptcy.org"}, {"@type": "ListItem", "position": 2, "name": "Federal Bankruptcy Districts", "item": "https://missouribankruptcy.org/districts.html"}]}, {"@type": "WebPage", "name": "Missouri Bankruptcy Courts - Western and Eastern Districts", "url": "https://missouribankruptcy.org/districts.html"}]}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.district-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.district-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px}
+.district-card h3{color:#58a6ff;font-size:1.3rem;margin-bottom:12px}
+.district-card ul{list-style:none;margin:0;padding:0}
+.district-card ul li{margin-bottom:8px;padding-left:0;color:#c9d1d9}
+.district-card ul li strong{color:#f0f6fc}
+.cite{color:#8b949e;font-size:0.9rem;margin-top:-8px;font-style:italic}
+.cite a{color:#58a6ff}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+.info-card{background:#1f6feb20;border:1px solid #1f6feb;border-radius:8px;padding:16px 20px;margin:20px 0;color:#f0f6fc}
+.info-card strong{color:#58a6ff}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.district-grid{grid-template-columns:1fr}}
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "GovernmentService",
+  "name": "Missouri Federal Bankruptcy Court Information",
+  "description": "Free guide to filing bankruptcy in the Western and Eastern Districts of Missouri.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "areaServed": {
+    "@type": "State",
+    "name": "Missouri"
+  },
+  "isAccessibleForFree": true
+}
+</script>
+<meta content="https://missouribankruptcy.org/og-image.svg" property="og:image"/>
+<meta content="https://missouribankruptcy.org/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">Missouri Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="districts.html">Districts</a><a href="income-limits.html">Means Test</a><a href="exemptions.html">Exemptions</a><a href="trustees.html">Trustees</a><a href="legal-aid.html">Legal Aid</a><a href="case-law.html">Case Law</a><a href="resources.html">Resources</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://missouribankruptcy.org">Home</a><span class="separator">›</span><span>Federal Districts</span></nav>
+
+<div class="hero"><div class="container">
+<h1>Where Missouri Bankruptcy Cases Are Filed</h1>
+<p class="subtitle">Missouri has <strong>two federal bankruptcy courts</strong>, not one. Which court you file in depends on where you live. File in the wrong district and the case gets transferred or dismissed. Get the district right from the start.</p>
+</div></div>
+
+<section><div class="container">
+<h2>Two Districts, Seven Divisional Courthouses</h2>
+<div class="district-grid">
+<div class="district-card">
+<h3>Western District of Missouri (W.D. Mo.)</h3>
+<ul>
+<li><strong>Bankruptcy Judges:</strong> Chief Judge Cynthia A. Norton, Judge Brian T. Fenimore</li>
+<li><strong>Divisional offices:</strong> Kansas City · Jefferson City · St. Joseph · Springfield</li>
+<li><strong>Coverage:</strong> Western and central Missouri counties, including the Kansas City metro, central Missouri, the Ozarks, and the northwest</li>
+<li><strong>Electronic filing:</strong> CM/ECF at <a href="https://ecf.mowb.uscourts.gov" rel="noopener" target="_blank">ecf.mowb.uscourts.gov</a></li>
+<li><strong>Court website:</strong> <a href="https://www.mow.uscourts.gov/bankruptcy" rel="noopener" target="_blank">mow.uscourts.gov/bankruptcy</a></li>
+<li><strong>Local rules:</strong> <a href="https://www.mow.uscourts.gov/bankruptcy/rules" rel="noopener" target="_blank">mow.uscourts.gov/bankruptcy/rules</a></li>
+</ul>
+</div>
+<div class="district-card">
+<h3>Eastern District of Missouri (E.D. Mo.)</h3>
+<ul>
+<li><strong>Bankruptcy Judges:</strong> Chief Judge Bonnie L. Clair, Judge Kathy A. Surratt-States, Judge Brian C. Walsh</li>
+<li><strong>Clerk of Court:</strong> Dana C. McWay · (314) 244-4500</li>
+<li><strong>Divisional offices:</strong> St. Louis · Cape Girardeau · Hannibal</li>
+<li><strong>Coverage:</strong> Eastern Missouri counties, including the St. Louis metro, southeast Missouri, and northeast Missouri along the Mississippi</li>
+<li><strong>Court website:</strong> <a href="https://www.moeb.uscourts.gov/" rel="noopener" target="_blank">moeb.uscourts.gov</a></li>
+<li><strong>Pro se tools:</strong> eSR (Electronic Self-Representation) + EDSS (Electronic Document Submission System)</li>
+</ul>
+</div>
+</div>
+
+<div class="info-card">
+<p><strong>Finding your exact county assignment:</strong> For the authoritative county-to-division mapping, consult the divisional pages on each court's website. Filing in the wrong division is a common pro se error; call the clerk's office if there's any doubt before filing.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>W.D. Mo. - Divisional Details</h2>
+<div class="card">
+<p><strong>Kansas City</strong> is the volume division of the Western District. The court runs a regular Chapter 13 motion docket where routine motions (plan modifications, hardship discharges, plan-payment defaults) are called in batches. Chapter 13 plan payments for <em>all</em> W.D. Mo. cases route to <a href="https://wdmo13.com/" rel="noopener" target="_blank">Richard V. Fink's office</a> (the standing trustee), regardless of which division your case is in.</p>
+<p><strong>Jefferson City</strong> serves central Missouri counties along the Missouri River corridor - a rural/small-city mix centered on Cole County. <strong>St. Joseph</strong> covers the far-northwest counties including Buchanan. <strong>Springfield</strong> covers the southwestern counties, including the Ozarks - Greene, Christian, Taney, Webster, and surrounding areas.</p>
+<p>For a pro se filer, the division you file in is determined by the county you reside in or have your principal place of business in. Routine filings happen electronically regardless of division; hearings are held at the division seat.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>E.D. Mo. - Divisional Details</h2>
+<div class="card">
+<p><strong>Eastern Division (St. Louis)</strong> sits at the Thomas F. Eagleton U.S. Courthouse, 111 South 10th Street, 4th Floor, St. Louis, MO 63102. It hears the largest share of E.D. Mo. cases.</p>
+<p><strong>Southeastern Division (Cape Girardeau)</strong> is at the Rush Hudson Limbaugh Sr. U.S. Courthouse, 555 Independence Street, Cape Girardeau, MO 63703 - handles southeast Missouri "Bootheel" counties.</p>
+<p><strong>Northern Division (Hannibal)</strong> is at the Federal Building, 801 Broadway, Hannibal, MO 63401 - handles the northeast counties along the Mississippi.</p>
+<p>The E.D. Mo. clerk's office maintains a panel trustee contact list (<a href="https://www.moeb.uscourts.gov/sites/moeb/files/Panel_Trustee_Contact_List.pdf" rel="noopener" target="_blank">Panel_Trustee_Contact_List.pdf</a>, last revised October 14, 2025) and specific hearing-procedure guidance. Signature requirements for e-filed documents were updated in January 2024.</p>
+<p>Chapter 13 plan payments for all E.D. Mo. cases go to <a href="https://www.ch13stl.com/" rel="noopener" target="_blank">Diana S. Daugherty's office</a> (the standing trustee), regardless of which division your case is in.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Which District Covers Me? The Venue Rule</h2>
+<div class="card">
+<p>The rule that controls is <strong><a href="https://www.law.cornell.edu/uscode/text/28/1408" rel="noopener" target="_blank">28 U.S.C. § 1408</a></strong>: you file in the district where you have lived (or maintained your principal place of business) for the <strong>greater part of the 180 days before filing</strong>.</p>
+<ul>
+<li>If you've lived in the same Missouri county for more than 90 days before filing, that county's district controls.</li>
+<li>If you moved to Missouri recently, you may need to file in the district you moved from - not the one you currently live in.</li>
+<li>If you cross the state line for work or have property in another state, consult an attorney before filing.</li>
+</ul>
+<p>Filing in the wrong venue results in transfer, dismissal, or forced re-filing - at best a delay, at worst the loss of filing fees. Get the venue right the first time.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Electronic Filing for Pro Se Debtors</h2>
+<div class="card">
+<h3>W.D. Mo. - CM/ECF</h3>
+<p>Use <a href="https://ecf.mowb.uscourts.gov" rel="noopener" target="_blank">ecf.mowb.uscourts.gov</a>. Pro se filers can request a filer ID through the clerk's office. Credit card filing-fee payment is handled through <a href="https://pay.gov" rel="noopener" target="_blank">pay.gov</a>.</p>
+
+<h3>E.D. Mo. - eSR and EDSS</h3>
+<ul>
+<li><strong>eSR (Electronic Self-Representation)</strong> - for starting a new voluntary petition online.</li>
+<li><strong>EDSS (Electronic Document Submission System)</strong> - for uploading filings after a case is open.</li>
+</ul>
+
+<p>Both districts accept in-person filings at the clerk's windows during business hours. Each clerk's office also maintains a drop box for after-hours filings.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Quick Reference</h2>
+<div class="card">
+<table>
+<tr><th></th><th>W.D. Mo.</th><th>E.D. Mo.</th></tr>
+<tr><td>Chief Bankruptcy Judge</td><td>Cynthia A. Norton</td><td>Bonnie L. Clair</td></tr>
+<tr><td>Other Judges</td><td>Brian T. Fenimore</td><td>Kathy A. Surratt-States · Brian C. Walsh</td></tr>
+<tr><td>Clerk</td><td>See court directory</td><td>Dana C. McWay</td></tr>
+<tr><td>Main bankruptcy line</td><td>(816) 512-1800</td><td>(314) 244-4500</td></tr>
+<tr><td>Divisional offices</td><td>Kansas City · Jefferson City · St. Joseph · Springfield</td><td>St. Louis · Cape Girardeau · Hannibal</td></tr>
+<tr><td>E-filing portal</td><td>ecf.mowb.uscourts.gov</td><td>CM/ECF via court site</td></tr>
+<tr><td>Pro se tools</td><td>CM/ECF filer ID</td><td>eSR + EDSS</td></tr>
+<tr><td>Website</td><td><a href="https://www.mow.uscourts.gov/bankruptcy" rel="noopener" target="_blank">mow.uscourts.gov/bankruptcy</a></td><td><a href="https://www.moeb.uscourts.gov/" rel="noopener" target="_blank">moeb.uscourts.gov</a></td></tr>
+<tr><td>Ch. 13 Standing Trustee</td><td><a href="https://wdmo13.com/" rel="noopener" target="_blank">Richard V. Fink</a></td><td><a href="https://www.ch13stl.com/" rel="noopener" target="_blank">Diana S. Daugherty</a></td></tr>
+</table>
+<p class="cite">Last verified against court websites: 2026-04-24.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>How many federal bankruptcy courts does Missouri have?</summary><div class="answer"><p>Two. The U.S. Bankruptcy Court for the Western District of Missouri (W.D. Mo.) and the U.S. Bankruptcy Court for the Eastern District of Missouri (E.D. Mo.). Which court you file in depends on where you have lived (or maintained your principal place of business) for the greater part of the 180 days before filing, per <a href="https://www.law.cornell.edu/uscode/text/28/1408" rel="noopener" target="_blank">28 U.S.C. § 1408</a>.</p></div></details>
+<details class="faq-item"><summary>Who are the current W.D. Mo. bankruptcy judges?</summary><div class="answer"><p>Chief Judge Cynthia A. Norton and Judge Brian T. Fenimore. The court has divisional offices in Kansas City, Jefferson City, St. Joseph, and Springfield.</p></div></details>
+<details class="faq-item"><summary>Who are the current E.D. Mo. bankruptcy judges?</summary><div class="answer"><p>Chief Judge Bonnie L. Clair, Judge Kathy A. Surratt-States, and Judge Brian C. Walsh. The clerk of court is Dana C. McWay. The primary courthouse is the Thomas F. Eagleton U.S. Courthouse at 111 South 10th Street, 4th Floor, St. Louis, MO 63102.</p></div></details>
+<details class="faq-item"><summary>Can I file bankruptcy online in Missouri?</summary><div class="answer"><p>Yes. Both Missouri bankruptcy districts support electronic filing. W.D. Mo. uses CM/ECF at <a href="https://ecf.mowb.uscourts.gov" rel="noopener" target="_blank">ecf.mowb.uscourts.gov</a>; pro se filers can request a filer ID from the clerk. E.D. Mo. offers two dedicated pro se tools: <strong>eSR</strong> (Electronic Self-Representation) for starting a new voluntary petition online, and <strong>EDSS</strong> (Electronic Document Submission System) for filings in an existing case.</p></div></details>
+</div></section>
+
+<div class="container">
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://automaticstay.org">Automatic Stay</a>
+<a href="https://341meeting.org">341 Meeting</a>
+<a href="https://bankruptcymeanstest.org">Means Test</a>
+<a href="https://voluntarypetition.org">Voluntary Petition</a>
+<a href="https://prosebankruptcy.org">Pro Se Bankruptcy</a>
+<a href="https://howtofilebankruptcy.org">How to File</a>
+</div>
+</div>
+</div>
+
+<!-- Related Missouri Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related Missouri Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Bankruptcy Guide</a></li>
+<li><a href="/chapter-7.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 7 in Missouri</a></li>
+<li><a href="/chapter-13.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 13 in Missouri</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Exemptions</a></li>
+<li><a href="/find-bankruptcy-filing.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Find a Filing (PACER)</a></li>
+</ul>
+</div>
+
+<!-- BTN:FOOTER:START -->
+<!-- SUBNAV:START --><nav class="subnav" aria-label="Deep content" style="background:#0d1117;border-top:1px solid #30363d;padding:1rem 0;margin-top:2rem"><div class="container" style="max-width:1200px;margin:0 auto;padding:0 1rem;text-align:center;font-size:0.9rem"><span style="color:#7d8590;margin-right:0.5rem">More Missouri law:</span><a href="/legal-aid.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Legal Aid</a><a href="/filing-practice.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Filing Practice</a><a href="/case-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Case Law</a><a href="/debt-collection-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Debt Collection</a><a href="/primary-sources.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Primary Sources</a></div></nav><!-- SUBNAV:END --><footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Court information is linked to the official W.D. Mo. and E.D. Mo. websites. Statute citations link to Cornell Law's Legal Information Institute.</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Missouri Bankruptcy Exemptions - What You Can Keep (2026 Statutory Guide)</title>
+<meta content="Complete Missouri bankruptcy exemption guide anchored to RSMo Chapter 513: homestead ($15,000), motor vehicle ($3,000), household goods, tools of trade, firearms, wildcard stacking, wage exemption, tenancy-by-the-entirety strategy. Primary-source citations throughout." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://missouribankruptcy.org/exemptions.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Does Missouri allow federal bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "No. Missouri opted out of the federal exemption scheme in 1982 under RSMo Section 513.427. Missouri residents filing bankruptcy must use Missouri state exemptions and cannot claim the federal exemptions in 11 U.S.C. Section 522(d)."}}, {"@type": "Question", "name": "What is Missouri's homestead exemption amount?", "acceptedAnswer": {"@type": "Answer", "text": "Under RSMo Section 513.475, Missouri protects up to $15,000 of equity in the dwelling house that serves as your homestead, along with associated land. The statute itself caps the combined exemption of all owners of the same homestead at $15,000 - joint owners cannot each claim $15,000 separately."}}, {"@type": "Question", "name": "Can married Missouri filers double their homestead exemption?", "acceptedAnswer": {"@type": "Answer", "text": "No. When both spouses own the same homestead, RSMo 513.475 caps the combined exemption at $15,000 - they share one homestead exemption, not two. This is different from federal practice and a common source of planning errors."}}, {"@type": "Question", "name": "How does the Missouri head-of-family wildcard work?", "acceptedAnswer": {"@type": "Answer", "text": "RSMo Section 513.440 provides a head-of-family wildcard of $1,250 base plus $350 for each unmarried dependent child under 21 (or SSA-disabled dependent). This stacks with the general $600 wildcard in RSMo 513.430.1(3). Exception: 10 percent of debts, income, salary, or wages due to the head of family are not exempt."}}, {"@type": "Question", "name": "What is tenancy by the entirety and why does it matter in Missouri bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Missouri recognizes tenancy by the entirety for married couples holding real property jointly. Property held this way is generally treated as exempt from claims against only one spouse when the debt is individual and not joint. This is one of the most important protections for Missouri married filers with non-joint debts, but the analysis is fact-specific and Eighth Circuit case law shapes its application - consult counsel for significant entireties property."}}, {"@type": "Question", "name": "How does Missouri wage garnishment interact with bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "RSMo Section 525.030 caps non-support wage garnishment at the lesser of: 25 percent of disposable weekly earnings, the amount exceeding 30 times the federal minimum wage, or 10 percent if the debtor is a head of family and Missouri resident. That 10 percent cap for heads of family - meaning 90 percent of wages protected - is one of the strongest state-level wage protections in the country."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Missouri Bankruptcy Exemptions - What You Can Keep", "description": "Statute-anchored guide to Missouri bankruptcy exemptions under RSMo Chapter 513, including homestead, vehicle, wildcard stacking, tenancy-by-the-entirety, and the Eighth Circuit case law shaping each.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}, "datePublished": "2026-04-05", "dateModified": "2026-04-22", "mainEntityOfPage": "https://missouribankruptcy.org/exemptions.html"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://missouribankruptcy.org"}, {"@type": "ListItem", "position": 2, "name": "Exemptions", "item": "https://missouribankruptcy.org/exemptions.html"}]}, {"@type": "WebPage", "name": "Missouri Bankruptcy Exemptions - What You Can Keep", "url": "https://missouribankruptcy.org/exemptions.html", "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".quick-answer", "h1", ".summary", "p:first-of-type"]}}]}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+.hero .alert{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 24px;display:inline-block;color:#f85149;font-weight:600;font-size:1.05rem}
+.stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;padding:32px 0}
+.stat-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;text-align:center}
+.stat-card .number{color:#58a6ff;font-size:2.2rem;font-weight:700}
+.stat-card .label{color:#8b949e;font-size:0.9rem;margin-top:4px}
+.stat-card.danger .number{color:#f85149}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.cite{color:#8b949e;font-size:0.9rem;margin-top:-8px;font-style:italic}
+.cite a{color:#58a6ff}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+.exemption-amount{color:#58a6ff;font-weight:700;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.warning-card{background:#d2992220;border:1px solid #d29922;border-radius:8px;padding:16px 20px;margin:20px 0;color:#f0f6fc}
+.warning-card strong{color:#d29922}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.stats-row{grid-template-columns:1fr 1fr}.stat-card .number{font-size:1.6rem}}
+@media(max-width:480px){.stats-row{grid-template-columns:1fr}}
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<link href="https://missouribankruptcy.org/exemptions.html" hreflang="en" rel="alternate"/>
+<link href="https://missouribankruptcy.org/exemptions-es.html" hreflang="es" rel="alternate"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Missouri Bankruptcy Information",
+  "description": "Free bankruptcy information and resources for Missouri residents.",
+  "url": "https://missouribankruptcy.org/",
+  "areaServed": {
+    "@type": "State",
+    "name": "Missouri"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "serviceType": "Bankruptcy Information",
+  "isAccessibleForFree": true
+}
+</script>
+<meta content="https://missouribankruptcy.org/og-image.svg" property="og:image"/>
+<meta content="https://missouribankruptcy.org/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">Missouri Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="districts.html">Districts</a><a href="income-limits.html">Means Test</a><a href="exemptions.html">Exemptions</a><a href="trustees.html">Trustees</a><a href="legal-aid.html">Legal Aid</a><a href="case-law.html">Case Law</a><a href="resources.html">Resources</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://missouribankruptcy.org">Home</a><span class="separator">›</span><span>Exemptions</span></nav>
+
+<div class="hero"><div class="container">
+<h1>Missouri Bankruptcy Exemptions</h1>
+<p class="subtitle">If you file bankruptcy in Missouri, the property you get to keep is defined by <strong>Missouri state law, not federal bankruptcy exemptions</strong>. That single rule shapes every other decision about what you keep, what you lose, and whether bankruptcy is even the right move.</p>
+</div></div>
+
+<section><div class="container">
+<h2>Missouri Opted Out of the Federal Exemption Scheme</h2>
+<div class="card">
+<p>Congress gave every state the option to let its residents choose between federal bankruptcy exemptions (listed in 11 U.S.C. § 522(d)) or the state's own exemption scheme. Missouri chose to <strong>opt out</strong>. Under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.427" rel="noopener" target="_blank">RSMo § 513.427</a> (effective August 28, 1982), a Missouri resident filing bankruptcy must use the Missouri exemption scheme. The federal § 522(d) list is off the table.</p>
+<p>Practically, that means the dollar amounts below are the ceiling on what you can protect. They are smaller than the federal amounts in almost every category. Missouri's homestead exemption, in particular, is far lower than the federal figure. Plan accordingly.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Homestead Exemption - Up to <span class="exemption-amount">$15,000</span></h2>
+<div class="card">
+<p>Under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.475" rel="noopener" target="_blank">RSMo § 513.475</a> (effective August 28, 2003), your principal residence - a dwelling house with its appurtenances and the land it sits on - is exempt up to <strong>$15,000 in equity</strong>. The exemption extends to rents, issues, and products of the homestead.</p>
+
+<div class="warning-card">
+<p><strong>Common mistake:</strong> Married couples do NOT get a combined $30,000. If you and your spouse both own the home, you share <em>one</em> $15,000 homestead between you. Missouri does not stack individual homesteads on a single property - the combined exemption of all owners of the same homestead cannot exceed $15,000. This cap is in the statute itself (RSMo § 513.475) and has been applied consistently by Eighth Circuit BAP case law.</p>
+</div>
+
+<p>One Missouri-specific wrinkle: <strong>neither spouse can unilaterally sell, mortgage, or transfer the homestead.</strong> The statute voids any such action. To convey or encumber the homestead, both spouses must act jointly. This protects the non-filing spouse in some scenarios but constrains strategic options.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Motor Vehicle - Up to <span class="exemption-amount">$3,000</span></h2>
+<div class="card">
+<p>Under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(5)</a> (effective August 28, 2022), you can protect up to <strong>$3,000 in aggregate value across motor vehicles</strong>. If your vehicle is worth less than $3,000 over any liens, it is fully exempt. If it is worth more, the trustee can sell it and pay you $3,000 before distributing the rest to creditors - though in practice, most Missouri Chapter 7 trustees will abandon vehicles that would yield minimal value after sale costs.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Household Goods and Personal Property - Up to <span class="exemption-amount">$3,000</span></h2>
+<div class="card">
+<p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(1)</a> exempts household furnishings, household goods, wearing apparel, appliances, books, animals, crops, and musical instruments for personal or family use, up to <strong>$3,000 aggregate</strong>. For most Missouri filers this covers the contents of a home comfortably; only unusually-valuable collections (antiques, high-end electronics, valuable instruments) press the cap.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Tools of the Trade - Up to <span class="exemption-amount">$3,000</span></h2>
+<div class="card">
+<p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(4)</a> protects implements, books, and tools of trade up to <strong>$3,000 aggregate</strong>. A contractor's tools, a mechanic's equipment, a nurse's scope - this is the exemption that keeps you working after bankruptcy.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Wedding Ring, Jewelry, and Firearms</h2>
+<div class="card">
+<p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(2)</a> protects a <strong>wedding ring up to $1,500</strong> plus other jewelry up to <strong>$500 aggregate</strong>. The wedding ring is separately protected at the higher figure; all other jewelry combines into the $500 pool.</p>
+<p>Missouri separately exempts firearms, firearms accessories, and ammunition up to <strong>$1,500 aggregate</strong> under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(12)</a>. Missouri added this category relatively recently; most other states lump firearms into general personal-property exemptions.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Wildcard Stacking - $600 Plus Head-of-Family</h2>
+<div class="card">
+<p>Missouri offers two stackable "wildcard" exemptions - property the debtor can choose from any category:</p>
+<ol>
+<li><strong>General wildcard ($600):</strong> <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(3)</a> lets any debtor apply up to $600 aggregate against any property the statute does not otherwise exempt.</li>
+<li><strong>Head-of-family wildcard ($1,250 + $350 per dependent):</strong> Under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.440" rel="noopener" target="_blank">RSMo § 513.440</a> (effective August 28, 2012), the head of a family who is a Missouri resident can exempt an additional $1,250 plus $350 per unmarried dependent child under 21 (or SSA-determined disabled dependent). Exception: 10% of debts, income, salary, or wages due to the head of family are NOT exempt.</li>
+</ol>
+<p>For a married filer with two minor children, stacking the general wildcard plus head-of-family gives an additional <strong>$1,850 + $700 = $2,550</strong> of flexibility on top of the category-specific exemptions.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Wage Exemption - <span class="exemption-amount">75%</span> or Better Protected</h2>
+<div class="card">
+<p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=525.030" rel="noopener" target="_blank">RSMo § 525.030</a> (effective January 2, 1979) caps garnishment at the lesser of:</p>
+<ul>
+<li>25% of aggregate weekly earnings after legally required deductions;</li>
+<li>The amount by which weekly earnings exceed 30 times the federal minimum hourly wage;</li>
+<li><strong>10%</strong> if the debtor is a head of family and a Missouri resident.</li>
+</ul>
+<p>Court-ordered family support, bankruptcy proceedings, and tax debts bypass these restrictions. For most Missouri workers, at minimum 75% of wages are shielded from non-support garnishment - and heads of family get 90% protection. <a href="https://stopwagegarnishment.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network" rel="noopener" target="_blank">More on wage garnishment defense</a>.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Retirement Accounts - Broadly Protected</h2>
+<div class="card">
+<p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(10)</a> exempts qualified retirement plans under Internal Revenue Code §§ 401(a), 403(a), 403(b), 408 (IRAs), 408A (Roth IRAs), and 409. Social Security, unemployment, veterans', and disability benefits are separately exempt, along with alimony up to <strong>$750 per month</strong>.</p>
+<p>Federal ERISA preemption also protects most employer-sponsored retirement accounts regardless of state exemption law.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Life Insurance</h2>
+<div class="card">
+<p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.430" rel="noopener" target="_blank">RSMo § 513.430.1(7)</a> exempts unmatured life insurance contracts and funeral/burial proceeds up to <strong>$15,000</strong>. Accrued cash value, dividends, and loan value are separately exempt under § 513.430.1(8) with a <strong>$150,000 cap in bankruptcy</strong> - but contracts purchased within one year before the bankruptcy filing are <em>not</em> exempt (a look-back meant to prevent last-minute asset conversion).</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Tenancy by the Entirety - Missouri's Biggest Strategic Lever</h2>
+<div class="card">
+<p>Missouri recognizes tenancy by the entirety for married couples holding real property jointly. Under established Missouri case law - confirmed by the Eighth Circuit - property held as tenants by the entirety is <strong>exempt from claims against only one spouse</strong>, as long as the debt is individual and not joint.</p>
+<p><strong>Eighth Circuit doctrine:</strong> The Eighth Circuit has recognized that when a creditor holds a judgment against only one spouse and the underlying debt is individual (not joint), a judicial lien against Missouri entireties property may be avoidable as an impairment of the homestead exemption in the non-debtor spouse's interest. Missouri treats entireties as a single undividable interest, which is the doctrinal foundation. Fact patterns vary significantly - specific case law application should be reviewed with counsel before relying on this protection in any specific case.</p>
+<p><strong>Practical impact:</strong> if only one spouse files bankruptcy, the non-filing spouse's share in entireties property is generally protected from the filing spouse's individual creditors. This can make the difference between keeping and losing a home that exceeds the $15,000 homestead cap.</p>
+<p>This is a complex area with fact-specific application. A Missouri debtor with significant equity in entireties property should not file pro se without understanding the entireties analysis specific to their facts.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Missouri Exemption Summary Table</h2>
+<div class="card">
+<table>
+<tr><th>Category</th><th>Exemption</th><th>Statute</th><th>Effective</th></tr>
+<tr><td>Homestead (principal residence equity)</td><td class="exemption-amount">$15,000</td><td>RSMo § 513.475</td><td>2003-08-28</td></tr>
+<tr><td>Motor vehicles (aggregate)</td><td class="exemption-amount">$3,000</td><td>RSMo § 513.430.1(5)</td><td>2022-08-28</td></tr>
+<tr><td>Household goods, apparel, books, appliances</td><td class="exemption-amount">$3,000</td><td>RSMo § 513.430.1(1)</td><td>2022-08-28</td></tr>
+<tr><td>Tools of trade</td><td class="exemption-amount">$3,000</td><td>RSMo § 513.430.1(4)</td><td>2022-08-28</td></tr>
+<tr><td>Wedding ring</td><td class="exemption-amount">$1,500</td><td>RSMo § 513.430.1(2)</td><td>2022-08-28</td></tr>
+<tr><td>Other jewelry (aggregate)</td><td class="exemption-amount">$500</td><td>RSMo § 513.430.1(2)</td><td>2022-08-28</td></tr>
+<tr><td>Firearms + accessories + ammunition</td><td class="exemption-amount">$1,500</td><td>RSMo § 513.430.1(12)</td><td>2022-08-28</td></tr>
+<tr><td>Wildcard - general</td><td class="exemption-amount">$600</td><td>RSMo § 513.430.1(3)</td><td>2022-08-28</td></tr>
+<tr><td>Wildcard - head of family</td><td class="exemption-amount">$1,250 + $350/dep.</td><td>RSMo § 513.440</td><td>2012-08-28</td></tr>
+<tr><td>Life insurance (unmatured + burial)</td><td class="exemption-amount">$15,000</td><td>RSMo § 513.430.1(7)</td><td>2022-08-28</td></tr>
+<tr><td>Life insurance cash value (bankruptcy cap)</td><td class="exemption-amount">$150,000</td><td>RSMo § 513.430.1(8)</td><td>2022-08-28</td></tr>
+<tr><td>Mobile home (non-real-property)</td><td class="exemption-amount">$5,000</td><td>RSMo § 513.430.1(6)</td><td>2022-08-28</td></tr>
+<tr><td>Retirement (401(a), 403(a)/(b), 408, 408A, 409)</td><td class="exemption-amount">unlimited</td><td>RSMo § 513.430.1(10)</td><td>2022-08-28</td></tr>
+<tr><td>Alimony (monthly cap)</td><td class="exemption-amount">$750/mo</td><td>RSMo § 513.430.1(10)</td><td>2022-08-28</td></tr>
+<tr><td>Health aids (professionally prescribed)</td><td class="exemption-amount">unlimited</td><td>RSMo § 513.430.1(9)</td><td>2022-08-28</td></tr>
+<tr><td>Wages (non-support garnishment)</td><td class="exemption-amount">75% / 90% HOH</td><td>RSMo § 525.030</td><td>1979-01-02</td></tr>
+</table>
+<p class="cite">Source: The statutes above link to the Missouri Revised Statutes (<a href="https://revisor.mo.gov/main/OneChapter.aspx?chapter=513" rel="noopener" target="_blank">revisor.mo.gov Chapter 513</a>). Dollar amounts are set by the Missouri General Assembly and updated periodically. Last verified 2026-04-22.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>Does Missouri allow federal bankruptcy exemptions?</summary><div class="answer"><p>No. Missouri opted out of the federal exemption scheme in 1982 under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.427" rel="noopener" target="_blank">RSMo § 513.427</a>. Missouri residents filing bankruptcy must use Missouri state exemptions and cannot claim the federal exemptions in 11 U.S.C. § 522(d).</p></div></details>
+<details class="faq-item"><summary>What is Missouri's homestead exemption amount?</summary><div class="answer"><p>Under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.475" rel="noopener" target="_blank">RSMo § 513.475</a>, Missouri protects up to $15,000 of equity in the dwelling house that serves as your homestead, along with associated land. The statute itself caps the combined exemption of all owners of the same homestead at $15,000 - joint owners cannot each claim $15,000 separately.</p></div></details>
+<details class="faq-item"><summary>Can married Missouri filers double their homestead exemption?</summary><div class="answer"><p><strong>No.</strong> When both spouses own the same homestead, RSMo 513.475 caps the combined exemption at $15,000 - they share one homestead exemption, not two. This is different from federal practice and a common source of planning errors.</p></div></details>
+<details class="faq-item"><summary>How does the Missouri head-of-family wildcard work?</summary><div class="answer"><p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=513.440" rel="noopener" target="_blank">RSMo § 513.440</a> provides a head-of-family wildcard of $1,250 base plus $350 for each unmarried dependent child under 21 (or SSA-disabled dependent). This stacks with the general $600 wildcard in RSMo § 513.430.1(3). Exception: 10% of debts, income, salary, or wages due to the head of family are not exempt.</p></div></details>
+<details class="faq-item"><summary>What is tenancy by the entirety and why does it matter in Missouri bankruptcy?</summary><div class="answer"><p>Missouri recognizes tenancy by the entirety for married couples holding real property jointly. Property held this way is generally treated as exempt from claims against only one spouse when the debt is individual and not joint. This is one of the most important protections for Missouri married filers with non-joint debts, but the analysis is fact-specific - consult counsel for significant entireties property.</p></div></details>
+<details class="faq-item"><summary>How does Missouri wage garnishment interact with bankruptcy?</summary><div class="answer"><p><a href="https://revisor.mo.gov/main/OneSection.aspx?section=525.030" rel="noopener" target="_blank">RSMo § 525.030</a> caps non-support wage garnishment at the lesser of 25% of disposable weekly earnings, the amount exceeding 30 times the federal minimum wage, or 10% if the debtor is a head of family and Missouri resident. That 10% cap for heads of family - 90% of wages protected - is one of the strongest state-level wage protections in the country. Bankruptcy's automatic stay halts garnishment immediately on filing; for non-bankruptcy wage defense, see <a href="https://stopwagegarnishment.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network" rel="noopener" target="_blank">stopwagegarnishment.com</a>.</p></div></details>
+</div></section>
+
+<div class="container">
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://automaticstay.org">Automatic Stay</a>
+<a href="https://341meeting.org">341 Meeting</a>
+<a href="https://bankruptcymeanstest.org">Means Test</a>
+<a href="https://howmuchdoesbankruptcycost.com">Cost Guide</a>
+<a href="https://bankruptcydismissed.com">Dismissed?</a>
+<a href="https://filebankruptcyagain.com">File Again?</a>
+<a href="https://howtofilebankruptcy.org">How to File</a>
+</div>
+</div>
+</div>
+
+<!-- Related Missouri Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related Missouri Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Bankruptcy Guide</a></li>
+<li><a href="/chapter-7.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 7 in Missouri</a></li>
+<li><a href="/chapter-13.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 13 in Missouri</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Exemptions</a></li>
+<li><a href="/cost.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Bankruptcy Cost in Missouri</a></li>
+</ul>
+</div>
+
+<!-- BTN:FOOTER:START -->
+<!-- SUBNAV:START --><nav class="subnav" aria-label="Deep content" style="background:#0d1117;border-top:1px solid #30363d;padding:1rem 0;margin-top:2rem"><div class="container" style="max-width:1200px;margin:0 auto;padding:0 1rem;text-align:center;font-size:0.9rem"><span style="color:#7d8590;margin-right:0.5rem">More Missouri law:</span><a href="/legal-aid.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Legal Aid</a><a href="/filing-practice.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Filing Practice</a><a href="/case-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Case Law</a><a href="/debt-collection-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Debt Collection</a><a href="/primary-sources.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Primary Sources</a></div></nav><!-- SUBNAV:END --><footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Statutes cited link to the <a href="https://revisor.mo.gov/" rel="noopener" target="_blank">Missouri Revisor of Statutes</a>. Case citations link to the 8th Circuit and 8th Cir. BAP.</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Missouri Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]</title>
+<meta content="Free Missouri bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Missouri exemptions, filing costs, means test, and what to expect in your case." name="description"/>
+<meta content="Missouri Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]" property="og:title"/>
+<meta content="Free Missouri bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Missouri exemptions, filing costs, means test, and what to expect in your case." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://missouribankruptcy.org/" property="og:url"/>
+<meta content="Missouri Bankruptcy Guide" property="og:site_name"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://missouribankruptcy.org/og-image.svg" property="og:image"/>
+<meta content="https://missouribankruptcy.org/og-image.svg" name="twitter:image"/>
+<meta content="Missouri Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]" name="twitter:title"/>
+<meta content="Free Missouri bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Missouri exemptions, filing costs, means test, and what to expect in your case." name="twitter:description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://missouribankruptcy.org/" rel="canonical"/>
+<link href="https://missouribankruptcy.org/" hreflang="en" rel="alternate"/>
+<link href="https://missouribankruptcy.org/es.html" hreflang="es" rel="alternate"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does bankruptcy cost in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Missouri typically range from $1,000 to $2,000 for Chapter 7 and $2,500 to $4,000 for Chapter 13. You will also need to pay for two required credit counseling courses, usually $25-$50 total."}}, {"@type": "Question", "name": "Will I lose my house if I file bankruptcy in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Missouri's homestead exemption protects up to $15,000 of equity in your home. If your equity is below that amount, you can keep your home in Chapter 7. In Chapter 13, you can keep your home while catching up on missed payments through your repayment plan."}}, {"@type": "Question", "name": "How long does bankruptcy take in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Chapter 7 typically takes 3-4 months from filing to discharge. Chapter 13 requires completing a 3-5 year repayment plan before receiving a discharge. The 341 meeting of creditors usually happens about 30 days after filing."}}, {"@type": "Question", "name": "Should I file Chapter 7 or Chapter 13 in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Chapter 7 eliminates most unsecured debt quickly but requires passing a means test. Chapter 13 allows you to keep property while repaying debts over 3-5 years. Your income, assets, and type of debt determine which chapter is best."}}, {"@type": "Question", "name": "Where do I file for bankruptcy in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Missouri has 2 federal bankruptcy districts: W.D. Mo., E.D. Mo.. You file in the district where you have lived for the greater part of the last 180 days."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Missouri Bankruptcy - Chapter 7 & 13 Filing Guide [2026]", "description": "Free educational guide for Missouri residents considering bankruptcy. Covers Chapter 7, Chapter 13, exemptions, costs, and what to expect.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"}, "datePublished": "2026-04-05", "dateModified": "2026-04-07", "mainEntityOfPage": "https://missouribankruptcy.org/"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://missouribankruptcy.org"}, {"@type": "ListItem", "position": 2, "name": "Missouri Bankruptcy Guide", "item": "https://missouribankruptcy.org"}]}, {"@type": "WebPage", "name": "Missouri Bankruptcy - Chapter 7 & 13 Filing Guide [2026]", "url": "https://missouribankruptcy.org/", "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".quick-answer", "h1", ".summary", "p:first-of-type"]}}]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SiteNavigationElement",
+      "name": "BTN Network",
+      "url": [
+        "https://1328f.com",
+        "https://1328f.org",
+        "https://automaticstay.org",
+        "https://341meeting.org",
+        "https://523a.org",
+        "https://109g.org",
+        "https://727a8.com",
+        "https://meanstest.org",
+        "https://chapter7vs13.org",
+        "https://howtofilebankruptcy.org"
+      ]
+    }
+  ]
+}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+.hero .alert{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 24px;display:inline-block;color:#f85149;font-weight:600;font-size:1.05rem}
+.stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;padding:32px 0}
+.stat-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;text-align:center}
+.stat-card .number{color:#58a6ff;font-size:2.2rem;font-weight:700}
+.stat-card .label{color:#8b949e;font-size:0.9rem;margin-top:4px}
+.stat-card.danger .number{color:#f85149}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.chart-container{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;overflow-x:auto}
+.chart-title{color:#f0f6fc;font-size:1.1rem;margin-bottom:16px;font-weight:600}
+.district-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px}
+.district-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
+.district-card h3{margin-bottom:8px;font-size:1.15rem}
+.district-card .rate{font-size:1.8rem;font-weight:700;color:#58a6ff}
+.district-card .meta{color:#8b949e;font-size:0.85rem;margin-top:8px}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.compare-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
+.compare-card h3{font-size:1.1rem;margin-bottom:10px}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.stats-row{grid-template-columns:1fr 1fr}.stat-card .number{font-size:1.6rem}.compare-grid{grid-template-columns:1fr}}
+@media(max-width:480px){.stats-row{grid-template-columns:1fr}}
+
+  /* Skip navigation link (accessibility) */
+  .skip-link {
+    position: absolute;
+    top: -100%;
+    left: 0;
+    background: var(--accent, #58a6ff);
+    color: #000;
+    padding: 0.5rem 1.5rem;
+    z-index: 10000;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-decoration: none;
+    border-radius: 0 0 6px 0;
+  }
+  .skip-link:focus {
+    top: 0;
+  }
+</style>
+<link href="/feed.xml" rel="alternate" title="missouribankruptcy.org Feed" type="application/atom+xml"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Missouri Bankruptcy Information",
+  "description": "Free bankruptcy information and resources for Missouri residents.",
+  "url": "https://missouribankruptcy.org/",
+  "areaServed": {
+    "@type": "City",
+    "name": "Missouri"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "serviceType": "Bankruptcy Information",
+  "isAccessibleForFree": true
+}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Main navigation"><div class="container"><a class="brand" href="/">Missouri Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="districts.html">Districts</a><a href="income-limits.html">Means Test</a><a href="exemptions.html">Exemptions</a><a href="trustees.html">Trustees</a><a href="legal-aid.html">Legal Aid</a><a href="case-law.html">Case Law</a><a href="resources.html">Resources</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<div class="hero"><div class="container">
+<h1>Missouri Bankruptcy - Your Complete Filing Guide for 2026</h1>
+<p class="subtitle">You are not alone. Missouri ranks above the national average for bankruptcy filings per capita, with particularly high filing rates in the St. Louis and Kansas City metro areas. This free guide covers everything Missouri residents need to know about filing bankruptcy, from <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> to costs to what happens after your case is filed.</p>
+<a class="cta" href="faq.html" style="margin-right:12px">Read the FAQ</a>
+<a class="cta" href="https://1328f.com" style="background:#1f6feb">Check Your Eligibility</a>
+</div></div>
+<div class="container">
+<div class="stats-row">
+<div class="stat-card"><div class="number">$15,000</div><div class="label">Homestead Exemption</div></div>
+<div class="stat-card"><div class="number">2</div><div class="label">Federal Districts</div></div>
+<div class="stat-card"><div class="number">$338</div><div class="label"><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> Filing Fee</div></div>
+<div class="stat-card"><div class="number">$313</div><div class="label"><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> Filing Fee</div></div>
+</div>
+</div>
+<section><div class="container">
+<h2>Chapter 7 vs. Chapter 13: Which Is Right for You?</h2>
+<div class="compare-grid">
+<div class="compare-card">
+<h3>Chapter 7 - Fresh Start</h3>
+<p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> eliminates most unsecured debts (credit cards, medical bills, personal loans) in about 3-4 months. You must pass a <a href="https://bankruptcymeanstest.org" title="Bankruptcy Means Test Explained">means test</a> based on your income.</p>
+<ul>
+<li><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> in 3-4 months</li>
+<li>Eliminates credit cards, <a href="https://medicaldebtbankruptcy.com/" title="medical debt">medical debt</a></li>
+<li>Must pass the <a href="https://meanstest.org" title="Bankruptcy Means Test">means test</a></li>
+<li>May lose non-exempt property</li>
+<li>Filing fee: $338</li>
+</ul>
+<a href="chapter-7.html">Learn more about Chapter 7 →</a>
+</div>
+<div class="compare-card">
+<h3>Chapter 13 - Payment Plan</h3>
+<p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> lets you keep your property while repaying debts over 3-5 years. Good for saving a home from foreclosure or a car from repossession. No <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> required.</p>
+<ul>
+<li>3-5 year <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan">repayment plan</a></li>
+<li>Keep your home and car</li>
+<li>Catch up on missed payments</li>
+<li>No <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> requirement</li>
+<li>Filing fee: $313</li>
+</ul>
+<a href="chapter-13.html">Learn more about Chapter 13 →</a>
+</div>
+</div>
+<p style="color:#8b949e;font-size:0.9rem;margin-top:8px">Not sure which chapter fits? <a href="https://chapter7vs13.org" title="Chapter 7 vs Chapter 13 Comparison">Compare them in detail</a>.</p>
+</div></section>
+<section><div class="container">
+<h2>Missouri Federal Court Districts</h2>
+<p>Missouri has 2 federal bankruptcy districts. Where you live determines where you file.</p>
+<div class="district-grid">
+<div class="district-card">
+<h3>Western District of Missouri (W.D. Mo.)</h3>
+<div class="rate">over 80,000 cases</div>
+<p style="margin-top:12px">Courthouse: 400 E. 9th St, Kansas City, MO 64106</p>
+<div class="meta">Phone: (816) 512-1800 | <a href="https://www.mow.uscourts.gov" rel="noopener" target="_blank">mow.uscourts.gov</a></div>
+<div class="meta">Covers Kansas City and western Missouri. Chapter 13 <a href="https://dismissalrate.org/" title="dismissal rate">dismissal rate</a> is 40.4% (2008-2019 mature data).</div>
+</div>
+<div class="district-card">
+<h3>Eastern District of Missouri (E.D. Mo.)</h3>
+<div class="rate">over 120,000 cases</div>
+<p style="margin-top:12px">Courthouse: 111 S. 10th St, St. Louis, MO 63102</p>
+<div class="meta">Phone: (314) 244-4500 | <a href="https://www.moeb.uscourts.gov" rel="noopener" target="_blank">moeb.uscourts.gov</a></div>
+<div class="meta">Covers St. Louis and eastern Missouri.</div>
+</div>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Missouri Exemptions at a Glance</h2>
+<div class="card">
+<p>Missouri's homestead exemption protects up to $15,000 of equity in your primary residence. For married couples filing jointly, the exemption doubles to $30,000. This is one of the lowest homestead <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> among major states.</p>
+<table>
+<tr><th>Property</th><th>Missouri Exemption</th></tr>
+<tr><td>Homestead</td><td>$15,000</td></tr>
+<tr><td>Vehicle</td><td>$3,000</td></tr>
+<tr><td>Household goods</td><td>$3,000 total</td></tr>
+<tr><td>Wildcard</td><td>$600 plus up to $1,250 of unused homestead</td></tr>
+<tr><td>Retirement (IRA/401k)</td><td>Fully exempt</td></tr>
+<tr><td>Social Security</td><td>Fully exempt</td></tr>
+</table>
+<p style="margin-top:12px"><a href="exemptions.html">Full exemption details →</a></p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>How Much Does Bankruptcy Cost in Missouri?</h2>
+<div class="card">
+<ul>
+<li><strong>Chapter 7 filing fee:</strong> $338 (can request installment payments)</li>
+<li><strong>Chapter 13 filing fee:</strong> $313 (can be paid through your plan)</li>
+<li><strong>Attorney fees:</strong> Typically $1,000 to $2,000 for Chapter 7; $2,500 to $4,000 for Chapter 13 in Missouri</li>
+<li><strong><a href="https://bankruptcyfreshstart.org/" title="credit counseling">Credit counseling</a>:</strong> $15-25 per course (two required)</li>
+</ul>
+<p>Fee waivers are available for Chapter 7 filers whose income is below 150% of the federal poverty guidelines.</p>
+<a href="cost.html">Full cost breakdown →</a> | <a href="https://howmuchdoesbankruptcycost.com" title="How Much Does Bankruptcy Cost">National cost guide</a>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary><a href="https://howmuchdoesbankruptcycost.com/" title="bankruptcy cost">How much does bankruptcy cost</a> in Missouri?</summary><div class="answer"><p>Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Missouri typically range from $1,000 to $2,000 for Chapter 7 and $2,500 to $4,000 for Chapter 13. You will also need to pay for two required <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> courses, usually $25-$50 total. <a href="cost.html">Full cost breakdown</a>.</p></div></details>
+<details class="faq-item"><summary>Will I lose my house if I file bankruptcy in Missouri?</summary><div class="answer"><p>Missouri's homestead exemption protects up to $15,000 of equity in your home. If your equity is below that amount, you can keep your home in Chapter 7. In Chapter 13, you can keep your home while catching up on missed payments through your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>. <a href="exemptions.html">See all exemptions</a>.</p></div></details>
+<details class="faq-item"><summary>How long does bankruptcy take?</summary><div class="answer"><p>Chapter 7 typically takes 3-4 months from filing to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. Chapter 13 requires completing a 3-5 year <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> before receiving a discharge. The 341 <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a> usually happens about 30 days after filing.</p></div></details>
+<details class="faq-item"><summary>Should I file Chapter 7 or Chapter 13?</summary><div class="answer"><p>Chapter 7 eliminates most <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a> quickly but requires passing a <a href="https://meanstest.org/" title="means test">means test</a>. Chapter 13 allows you to keep property while repaying debts over 3-5 years. Your income, assets, and type of debt determine which chapter is best. <a href="https://chapter7vs13.org" title="Ch 7 vs 13">Compare chapters</a>.</p></div></details>
+<details class="faq-item"><summary>Where do I file for bankruptcy in Missouri?</summary><div class="answer"><p>Missouri has 2 federal bankruptcy districts: W.D. Mo., E.D. Mo.. You file in the district where you have lived for the greater part of the last 180 days.</p></div></details>
+<p style="margin-top:16px"><a href="faq.html">See all frequently asked questions →</a></p>
+</div></section>
+<div class="container">
+<div style="text-align:center;padding:40px 0">
+<h2>Check Your Eligibility</h2>
+<p>Use the free <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> screener to check whether a prior discharge affects your eligibility for a new discharge.</p>
+<a class="cta" href="https://1328f.com">Free Discharge Screener</a>
+</div>
+<div style="margin-bottom:32px">
+<h2 style="text-align:center;margin-bottom:20px">Missouri City Guides</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px">
+<div class="card" style="text-align:center;margin-bottom:0">
+<h3>Kansas City</h3>
+<p style="color:#58a6ff;font-size:1.4rem;font-weight:700;margin-bottom:4px">W.D. Mo.</p>
+<p style="color:#8b949e;margin-bottom:12px">400 E. 9th St, Kansas City, MO 64106</p>
+<p>91,000+ cases since 2008. 40.4% Chapter 13 <a href="https://dismissalrate.org" rel="noopener" target="_blank" title="Bankruptcy Dismissal Rates - Open Bankruptcy Project">dismissal rate</a>. Detailed guides for KC and 12 suburbs.</p>
+<a class="cta" href="/kansas-city/" style="margin-top:8px">Kansas City Guide →</a>
+</div>
+<div class="card" style="text-align:center;margin-bottom:0">
+<h3>St. Louis</h3>
+<p style="color:#58a6ff;font-size:1.4rem;font-weight:700;margin-bottom:4px">E.D. Mo.</p>
+<p style="color:#8b949e;margin-bottom:12px">111 S. 10th St, St. Louis, MO 63102</p>
+<p>120,000+ cases since 2008. One of the busiest bankruptcy courts in the country. Guides for STL and 6 suburbs.</p>
+<a class="cta" href="/st-louis/" style="margin-top:8px">St. Louis Guide →</a>
+</div>
+<div class="card" style="text-align:center;margin-bottom:0">
+<h3>Springfield</h3>
+<p style="color:#58a6ff;font-size:1.4rem;font-weight:700;margin-bottom:4px">W.D. Mo. Springfield Div.</p>
+<p style="color:#8b949e;margin-bottom:12px">222 N. John Q. Hammons Pkwy, Springfield, MO 65806</p>
+<p>Springfield Division of the Western District serves southwest Missouri including Joplin and surrounding counties.</p>
+<a class="cta" href="/springfield/" style="margin-top:8px">Springfield Guide →</a>
+</div>
+</div>
+</div>
+<div class="network">
+<h3>Browse Other States</h3>
+<div class="network-links">
+<a href="https://alaskabankruptcy.org">Alaska</a>
+<a href="https://arkansasbankruptcy.org">Arkansas</a>
+<a href="https://coloradobankruptcy.org">Colorado</a>
+<a href="https://delawarebankruptcy.org">Delaware</a>
+<a href="https://georgiabankruptcy.org">Georgia</a>
+<a href="https://illinoisbankruptcy.org">Illinois</a>
+<a href="https://iowabankruptcy.org">Iowa</a>
+<a href="https://marylandbankruptcy.org">Maryland</a>
+<a href="https://minnesotabankruptcy.org">Minnesota</a>
+<a href="https://ohiobankruptcy.org">Ohio</a>
+<a href="https://rhodeislandbankruptcy.org">Rhode Island</a>
+<a href="https://tennesseebankruptcy.org">Tennessee</a>
+<a href="https://vermontbankruptcy.org">Vermont</a>
+<a href="https://openbankruptcyproject.org/cities.html">All Cities →</a>
+</div>
+</div>
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://automaticstay.org">Automatic Stay</a>
+<a href="https://341meeting.org">341 Meeting</a>
+<a href="https://bankruptcymeanstest.org">Means Test</a>
+<a href="https://howmuchdoesbankruptcycost.com">Cost Guide</a>
+<a href="https://bankruptcydismissed.com">Dismissed?</a>
+<a href="https://filebankruptcyagain.com">File Again?</a>
+<a href="https://howtofilebankruptcy.org">How to File</a>
+</div>
+</div>
+</div>
+<!-- USER JOURNEY CROSS-LINKS (data-driven funnel) -->
+<div style="max-width:900px;margin:1.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem 0;text-align:center">Your Next Questions</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0;text-align:center">Real users ask these next - we built the answers.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://chapter7vs13.org?utm_source=missouribankruptcy.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 vs Chapter 13</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Compare chapters before you choose</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">chapter7vs13.org →</p>
+</a>
+<a class="related-card" href="https://howmuchdoesbankruptcycost.com?utm_source=missouribankruptcy.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How Much Does It Cost?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Attorney fees and filing costs by chapter</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howmuchdoesbankruptcycost.com →</p>
+</a>
+<a class="related-card" href="https://bankruptcyexemptionsbystate.com?utm_source=missouribankruptcy.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Exemptions by State</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Your state exemptions for vehicles, homes, and more</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcyexemptionsbystate.com →</p>
+</a>
+<a class="related-card" href="https://bankruptcymill.org?utm_source=missouribankruptcy.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">What Is a Bankruptcy Mill?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Avoid high-volume firms with poor outcomes</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcymill.org →</p>
+</a>
+</div>
+</div>
+<!-- /USER JOURNEY -->
+<!-- BTN:FOOTER:START -->
+<!-- RELATED GUIDES - injected by add_lateral_links.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://kansascitybankruptcy.org?utm_source=missouribankruptcy.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Kansas City Bankruptcy Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Bankruptcy information for Kansas City residents</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">kansascitybankruptcy.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcyexemptionsbystate.com?utm_source=missouribankruptcy.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Exemptions by State</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">State-by-state bankruptcy exemptions</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcyexemptionsbystate.com →</p>
+</a>
+<a class="related-card" href="https://whatischapter7.com?utm_source=missouribankruptcy.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Bankruptcy Explained</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What Chapter 7 bankruptcy is and how it works</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">whatischapter7.com →</p>
+</a>
+<a class="related-card" href="https://cheapbankruptcylawyer.org?utm_source=missouribankruptcy.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Finding Affordable Bankruptcy Help</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">How to find a low-cost bankruptcy attorney</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">cheapbankruptcylawyer.org →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- SUBNAV:START --><nav class="subnav" aria-label="Deep content" style="background:#0d1117;border-top:1px solid #30363d;padding:1rem 0;margin-top:2rem"><div class="container" style="max-width:1200px;margin:0 auto;padding:0 1rem;text-align:center;font-size:0.9rem"><span style="color:#7d8590;margin-right:0.5rem">More Missouri law:</span><a href="/legal-aid.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Legal Aid</a><a href="/filing-practice.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Filing Practice</a><a href="/case-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Case Law</a><a href="/debt-collection-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Debt Collection</a><a href="/primary-sources.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Primary Sources</a></div></nav><!-- SUBNAV:END --><footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div><p style="margin-top:0.75rem;font-size:0.82rem"><a href="/privacy.html" style="color:#7d8590">Privacy Policy</a></p>
+<div style="margin-top:12px;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap"><a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" onmouseout="this.style.borderColor='#30363d'" onmouseover="this.style.borderColor='#58a6ff'" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#1c2128;border:1px solid #30363d;color:#7d8590;padding:4px 12px;border-radius:20px;font-size:0.75rem;text-decoration:none;transition:border-color 0.2s" target="_blank"><svg fill="#3fb950" height="14" viewbox="0 0 16 16" width="14"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.78 5.97l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97a.75.75 0 011.06 1.06z"></path></svg> Cited by the Federal Rules Committee (26-BK-3)</a></div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<!-- OBP Contact Form - deployed by deploy_btn_contact_form.py -->
+<div id="obp-help-form" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.5rem;margin:2rem auto;max-width:600px">
+<h3 style="color:#c9d1d9;margin-top:0;margin-bottom:0.5rem">Have a Question?</h3>
+<p style="color:#8b949e;font-size:0.85rem;margin-bottom:1rem">
+    Open Bankruptcy Project provides free educational information. We are not a law firm.
+    Nothing on this site constitutes legal advice. For advice about your specific situation,
+    consult a licensed attorney.
+  </p>
+<form id="obp-help-submit" style="margin:0">
+<input name="source" type="hidden" value="missouribankruptcy.org"/>
+<input name="topic" type="hidden" value="Site Question"/>
+<input aria-label="Name (optional)" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="text"/>
+<input aria-label="Email" name="email" placeholder="Email" required="" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="email"/>
+<select name="state" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;appearance:auto">
+<option value="">Select your state...</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AS">American Samoa</option>
+<option value="GU">Guam</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="PR">Puerto Rico</option>
+<option value="VI">U.S. Virgin Islands</option>
+</select>
+<textarea name="message" placeholder="Your question..." required="" rows="4" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;resize:vertical"></textarea>
+<label style="color:#8b949e;font-size:0.8rem;display:flex;align-items:start;gap:0.5rem;margin:0.5rem 0 1rem;cursor:pointer">
+<input aria-label="checkbox" required="" style="margin-top:2px;accent-color:#bf3989" type="checkbox"/>
+      I understand this is educational information, not legal advice.
+    </label>
+<button onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="background:#bf3989;color:#fff;border:none;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s" type="submit">Submit Question</button>
+</form>
+<p id="obp-help-thanks" style="display:none;color:#3fb950;font-weight:600;margin:1rem 0 0">Thank you! We typically respond within one business day.</p>
+<script>
+  document.getElementById('obp-help-submit').addEventListener('submit',function(e){
+    e.preventDefault();var f=this,b=f.querySelector('button[type=submit]');
+    b.disabled=true;b.textContent='Sending...';
+    var d={name:f.querySelector('[name=name]').value,email:f.querySelector('[name=email]').value,
+      state:f.querySelector('[name=state]').value,
+      message:f.querySelector('[name=message]').value,
+      topic:'Site Question ('+f.querySelector('[name=source]').value+')'};
+    fetch('https://script.google.com/macros/s/AKfycbwSILiwrhpiognHpMEws-j7Yc-aySqk3vDkCXFmNe-hA-tHrzGC6qid7f6ZqBy3n9sqiQ/exec',{method:'POST',body:JSON.stringify(d)})
+    .then(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'})
+    .catch(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'});
+  });
+  </script>
+</div>
+<!-- /OBP Contact Form -->
+<!-- OBP-FREE-HELP-CALLOUT -->
+<div style="max-width:820px;margin:2rem auto;padding:1.5rem 2rem;background:#0d2818;border:1px solid #3fb950;border-radius:10px">
+<p style="color:#3fb950;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem">Need Free Bankruptcy Help?</p>
+<p style="color:#b1bac4;font-size:0.95rem;margin:0 0 0.75rem;line-height:1.7">If you cannot afford a bankruptcy attorney, free help is available. Legal aid organizations, law school clinics, and court self-help programs can assist you at no cost.</p>
+<a href="https://openbankruptcyproject.org/help/missouri.html" onmouseout="this.style.background='#238636'" onmouseover="this.style.background='#2ea043'" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none;transition:background 0.2s">Find Free Help in Missouri</a>
+</div>
+<!-- /OBP-FREE-HELP-CALLOUT -->
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=missouribankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=missouribankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=missouribankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+</ul>
+</div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

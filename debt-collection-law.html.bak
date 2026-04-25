@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Missouri Debt Collection Law - SOL, Garnishment, MMPA, Judgment Vacatur</title>
+<meta content="Missouri state-law debt defenses that work independent of bankruptcy: statutes of limitations (RSMo 516.110, 516.120, 516.350), wage garnishment caps (RSMo 525.030), Missouri Merchandising Practices Act (RSMo 407), default judgment vacatur under Mo. Rule 74.06, zombie debt revival traps." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://missouribankruptcy.org/debt-collection-law.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the Missouri statute of limitations on credit card debt?", "acceptedAnswer": {"@type": "Answer", "text": "Five years, under RSMo Section 516.120. Credit card debt is typically treated as an open account or implied contract, which falls under the 5-year rule. The clock runs from the date of last payment or the date the account first became due. Debts based on signed written contracts (notes, formal loan agreements) get the 10-year rule under RSMo 516.110."}}, {"@type": "Question", "name": "How long do Missouri judgments remain enforceable?", "acceptedAnswer": {"@type": "Answer", "text": "Ten years from rendition, under RSMo Section 516.350. A judgment can be revived for another 10-year cycle by personal service on the debtor or by a recorded payment on the judgment. After the 10-year period expires without revival, the judgment is 'conclusively presumed to be paid' and cannot be executed upon."}}, {"@type": "Question", "name": "What happens if I make a payment on an old debt in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Any payment on an old debt generally restarts the statute of limitations clock from the date of that payment, for debts not already reduced to judgment. A small 'goodwill' payment on a 6-year-old credit card debt can turn an unenforceable debt back into a live claim. Never pay on old debt without confirming SOL status first."}}, {"@type": "Question", "name": "Can I vacate a default judgment in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, under Missouri Supreme Court Rule 74.06. Grounds include mistake, inadvertence, excusable neglect, newly discovered evidence, fraud, or any other reason justifying relief. The motion generally must be filed within a reasonable time, and within one year for the mistake/neglect/fraud grounds. Verify current rule text before filing."}}, {"@type": "Question", "name": "How much of my wages can be garnished in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Under RSMo Section 525.030, non-support garnishment is capped at the lesser of 25% of disposable weekly earnings, the amount exceeding 30 times the federal minimum wage, or 10% if the debtor is a head of family and Missouri resident. Heads of family are protected at 90%. Court-ordered child support, tax debts, and bankruptcy-based garnishments have separate rules."}}, {"@type": "Question", "name": "Does the Missouri Merchandising Practices Act help debtors?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, in some contexts. RSMo 407.020 prohibits 'deception, fraud, false pretense, false promise, misrepresentation, unfair practice or the concealment, suppression, or omission of any material fact' in trade or commerce. If a debt collector made misrepresentations about a debt, threatened action they could not take, or tried to collect on a debt they did not own, MMPA may support a civil claim alongside the federal FDCPA. MMPA allows attorney's-fees recovery, which makes these cases economically viable for plaintiffs' consumer-protection attorneys to take on contingency."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Missouri Debt Collection Law - State-Law Defenses That Work Without Bankruptcy", "description": "Complete overview of Missouri state-law protections against debt collectors: statutes of limitations, judgment revival, wage garnishment caps, MMPA consumer protection, and default judgment vacatur.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}, "datePublished": "2026-04-22", "dateModified": "2026-04-22", "mainEntityOfPage": "https://missouribankruptcy.org/debt-collection-law.html"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://missouribankruptcy.org"}, {"@type": "ListItem", "position": 2, "name": "Debt Collection Law", "item": "https://missouribankruptcy.org/debt-collection-law.html"}]}, {"@type": "WebPage", "name": "Missouri Debt Collection Law", "url": "https://missouribankruptcy.org/debt-collection-law.html"}]}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.cite{color:#8b949e;font-size:0.9rem;margin-top:-8px;font-style:italic}
+.cite a{color:#58a6ff}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+.warning-card{background:#d2992220;border:1px solid #d29922;border-radius:8px;padding:16px 20px;margin:20px 0;color:#f0f6fc}
+.warning-card strong{color:#d29922}
+.danger-card{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 20px;margin:20px 0;color:#f0f6fc}
+.danger-card strong{color:#f85149}
+@media(max-width:768px){.hero h1{font-size:1.7rem}}
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<meta content="https://missouribankruptcy.org/og-image.svg" property="og:image"/>
+<meta content="https://missouribankruptcy.org/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">Missouri Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="districts.html">Districts</a><a href="income-limits.html">Means Test</a><a href="exemptions.html">Exemptions</a><a href="trustees.html">Trustees</a><a href="legal-aid.html">Legal Aid</a><a href="case-law.html">Case Law</a><a href="resources.html">Resources</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://missouribankruptcy.org">Home</a><span class="separator">›</span><span>Debt Collection Law</span></nav>
+
+<div class="hero"><div class="container">
+<h1>Missouri Debt Collection Law</h1>
+<p class="subtitle">Bankruptcy is the nuclear option for debt relief, but it is not the only option. Missouri state law gives you significant protections against debt collectors that exist <strong>independent of bankruptcy</strong>. Some debts may already be unenforceable without any bankruptcy filing, and aggressive collectors who cross legal lines can owe <em>you</em> money.</p>
+</div></div>
+
+<section><div class="container">
+<h2>Missouri Statutes of Limitations on Debt</h2>
+<div class="card">
+<p>Missouri caps how long a creditor has to sue you on an unpaid debt. The clock starts when the debt first becomes due or (for accounts) when the last payment was made.</p>
+<ul>
+<li><strong>Written contracts - 10 years.</strong> Any debt memorialized in a signed writing (promissory notes, most mortgage deficiencies, retail financing contracts, formal loan agreements). <a href="https://revisor.mo.gov/main/OneSection.aspx?section=516.110" rel="noopener" target="_blank">RSMo § 516.110</a>.</li>
+<li><strong>Oral contracts and open accounts - 5 years.</strong> Credit card debt (in most cases), medical bills, utility bills, unsigned agreements. <a href="https://revisor.mo.gov/main/OneSection.aspx?section=516.120" rel="noopener" target="_blank">RSMo § 516.120</a>.</li>
+<li><strong>Fraud - 5 years, with discovery rule (up to 10 years).</strong> The clock runs from when you discover the fraud, not when the fraud occurred. RSMo § 516.120(5).</li>
+<li><strong>Judgments - 10 years from rendition, revivable.</strong> <a href="https://revisor.mo.gov/main/OneSection.aspx?section=516.350" rel="noopener" target="_blank">RSMo § 516.350</a>. After 10 years a Missouri judgment is "conclusively presumed to be paid" - unless the creditor revives it through personal service on you, or unless you've made a partial payment (which restarts the clock from the payment date).</li>
+</ul>
+
+<div class="warning-card">
+<p><strong>SOL is an affirmative defense.</strong> If a collector sues you on a debt past the Missouri statute of limitations, that suit is defensible - but <strong>you must raise the defense yourself</strong>. If you don't answer, the court won't raise it for you. Debt collectors routinely sue on time-barred debt knowing that most defendants default without answering. A $5,000 default judgment on a time-barred $2,000 account is easy money for a debt buyer. Missouri circuit courts rarely police this.</p>
+</div>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Default Judgments and How to Vacate Them</h2>
+<div class="card">
+<p>If a debt collector obtained a default judgment against you - because service was defective, or the petition went to an old address, or you simply didn't know to answer - you can move to set it aside under <strong>Missouri Supreme Court Rule 74.06(b)</strong>. Grounds include:</p>
+<ul>
+<li>Mistake, inadvertence, or excusable neglect</li>
+<li>Newly discovered evidence</li>
+<li>Fraud, misrepresentation, or misconduct by an adverse party</li>
+<li>Void judgment (no jurisdiction, improper service)</li>
+<li>Any other reason justifying relief from operation of the judgment</li>
+</ul>
+<p>The motion generally must be filed within a reasonable time, and within <strong>one year</strong> for the mistake/neglect/fraud grounds. Void-judgment motions have no strict time limit.</p>
+<p>Vacating a default judgment is a <strong>state-court remedy, not a bankruptcy remedy</strong>. It works independently, and in some cases it's the cleanest fix: vacate the judgment, assert the SOL defense, defeat the collection suit entirely - no bankruptcy needed.</p>
+<p class="cite">See also: <a href="https://defaultjudgment.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network" rel="noopener" target="_blank">defaultjudgment.org</a> · <a href="judgments.html">judgments and bankruptcy</a></p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Missouri Wage Garnishment Caps</h2>
+<div class="card">
+<p>If a creditor gets a judgment against you, Missouri caps how much of your paycheck they can take. Per <a href="https://revisor.mo.gov/main/OneSection.aspx?section=525.030" rel="noopener" target="_blank">RSMo § 525.030</a>, <strong>non-support</strong> garnishment is limited to the lesser of:</p>
+<ul>
+<li><strong>25%</strong> of disposable earnings per week, OR</li>
+<li>The amount by which disposable earnings exceed <strong>30× the federal minimum wage per week</strong>, OR</li>
+<li><strong>10%</strong> if you are the head of a family AND a Missouri resident.</li>
+</ul>
+<p>Head-of-family status protects <strong>90%</strong> of your wages - one of the stronger state-level wage protections in the country. Child-support, tax, and bankruptcy-based garnishments have separate (and more aggressive) rules.</p>
+<p class="cite">See also: <a href="wage-garnishment.html">Missouri wage garnishment details</a> · <a href="https://stopwagegarnishment.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network" rel="noopener" target="_blank">garnishment defense guide</a></p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>The Missouri Merchandising Practices Act (MMPA)</h2>
+<div class="card">
+<p>Missouri's consumer protection statute - <a href="https://revisor.mo.gov/main/OneSection.aspx?section=407.020" rel="noopener" target="_blank">RSMo § 407.020</a> - bans "deception, fraud, false pretense, false promise, misrepresentation, unfair practice or the concealment, suppression, or omission of any material fact" in trade or commerce. Violations can support criminal prosecution (felony in intentional cases) and civil actions by the attorney general, prosecutors, or private citizens in specific categories.</p>
+<p>Practically, the MMPA is a powerful overlay to the federal <strong>Fair Debt Collection Practices Act (FDCPA)</strong>. If a collector:</p>
+<ul>
+<li>Made misrepresentations about the debt amount or status</li>
+<li>Threatened action they couldn't legally take (arrest, wage garnishment without a judgment, property seizure)</li>
+<li>Tried to collect on a debt they didn't actually own (debt-buyer chain-of-title problem)</li>
+<li>Used deceptive communication tactics</li>
+</ul>
+<p>... a Missouri consumer may have claims under <strong>both</strong> statutes. MMPA allows for <strong>attorney's-fees recovery</strong>, which makes these cases economically viable for plaintiffs' consumer-protection attorneys to take on contingency - even on small-dollar violations.</p>
+<p class="cite">Full MMPA chapter: <a href="https://revisor.mo.gov/main/OneChapter.aspx?chapter=407" rel="noopener" target="_blank">RSMo Chapter 407</a></p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Zombie Debt and the Revival Trap</h2>
+<div class="card">
+<p>"Zombie debt" is time-barred debt that collectors try to revive - typically by pushing you to make a small payment or a written acknowledgment.</p>
+
+<div class="danger-card">
+<p><strong>Any payment on an old debt can restart the SOL clock from the date of that payment</strong> (for debts that aren't already reduced to judgment). A small "goodwill" payment on a 6-year-old credit card debt can turn an unenforceable debt back into a live claim. <strong>Never pay on old debt without confirming SOL status first.</strong></p>
+</div>
+
+<p>Common tactics collectors use to trigger revival:</p>
+<ul>
+<li>"Settle for 20% right now" offers on old debt</li>
+<li>Promises to remove the debt from your credit report in exchange for a small partial payment</li>
+<li>Requests for a written acknowledgment of the debt (even without payment)</li>
+<li>"Hardship programs" that start small monthly payments on old debt</li>
+</ul>
+<p>If you receive a collection call on old debt, the safe response is: (1) request validation in writing under the FDCPA, (2) do not agree to any payment over the phone, (3) check the SOL against the date of last payment, (4) if time-barred, send a cease-and-desist letter rather than paying anything.</p>
+<p class="cite">See also: <a href="https://zombiedebt.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network" rel="noopener" target="_blank">zombiedebt.org</a> · <a href="https://debtstatuteoflimitations.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network" rel="noopener" target="_blank">state-by-state SOL tables</a></p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Quick Reference - Missouri Debt Collection Law</h2>
+<div class="card">
+<table>
+<tr><th>Topic</th><th>Missouri Rule</th><th>Statute / Rule</th></tr>
+<tr><td>SOL - written contracts</td><td>10 years</td><td>RSMo § 516.110</td></tr>
+<tr><td>SOL - oral / open accounts / credit card</td><td>5 years</td><td>RSMo § 516.120</td></tr>
+<tr><td>SOL - fraud (discovery rule)</td><td>5 years from discovery, max 10</td><td>RSMo § 516.120(5)</td></tr>
+<tr><td>Judgment life</td><td>10 years, revivable</td><td>RSMo § 516.350</td></tr>
+<tr><td>Wage garnishment cap (general)</td><td>25% of disposable</td><td>RSMo § 525.030</td></tr>
+<tr><td>Wage garnishment cap (head of family)</td><td>10% (i.e., 90% protected)</td><td>RSMo § 525.030</td></tr>
+<tr><td>Consumer protection (deception/fraud)</td><td>MMPA - private + AG claims</td><td>RSMo § 407.020</td></tr>
+<tr><td>Default judgment vacatur</td><td>1 year for mistake/neglect/fraud</td><td>Mo. Sup. Ct. R. 74.06</td></tr>
+<tr><td>Federal FDCPA overlay</td><td>Applies alongside MMPA</td><td>15 U.S.C. § 1692 et seq.</td></tr>
+</table>
+<p class="cite">Source links go to the Missouri Revisor of Statutes (revisor.mo.gov). Last verified 2026-04-22.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>What is the Missouri statute of limitations on credit card debt?</summary><div class="answer"><p><strong>Five years</strong>, under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=516.120" rel="noopener" target="_blank">RSMo § 516.120</a>. Credit card debt is typically treated as an open account or implied contract, which falls under the 5-year rule. The clock runs from the date of last payment or the date the account first became due. Debts based on signed <em>written</em> contracts (notes, formal loan agreements) get the 10-year rule under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=516.110" rel="noopener" target="_blank">RSMo § 516.110</a>.</p></div></details>
+<details class="faq-item"><summary>How long do Missouri judgments remain enforceable?</summary><div class="answer"><p><strong>Ten years</strong> from rendition, under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=516.350" rel="noopener" target="_blank">RSMo § 516.350</a>. A judgment can be revived for another 10-year cycle by personal service on the debtor or by a recorded payment on the judgment. After the 10-year period expires without revival, the judgment is "conclusively presumed to be paid" and cannot be executed upon.</p></div></details>
+<details class="faq-item"><summary>What happens if I make a payment on an old debt in Missouri?</summary><div class="answer"><p>Any payment on an old debt generally restarts the statute of limitations clock from the date of that payment, for debts <em>not</em> already reduced to judgment. A small "goodwill" payment on a 6-year-old credit card debt can turn an unenforceable debt back into a live claim. <strong>Never pay on old debt without confirming SOL status first.</strong></p></div></details>
+<details class="faq-item"><summary>Can I vacate a default judgment in Missouri?</summary><div class="answer"><p>Yes, under <strong>Missouri Supreme Court Rule 74.06</strong>. Grounds include mistake, inadvertence, excusable neglect, newly discovered evidence, fraud, or any other reason justifying relief. The motion generally must be filed within a reasonable time, and within <strong>one year</strong> for the mistake/neglect/fraud grounds. Verify current rule text before filing.</p></div></details>
+<details class="faq-item"><summary>How much of my wages can be garnished in Missouri?</summary><div class="answer"><p>Under <a href="https://revisor.mo.gov/main/OneSection.aspx?section=525.030" rel="noopener" target="_blank">RSMo § 525.030</a>, non-support garnishment is capped at the lesser of 25% of disposable weekly earnings, the amount exceeding 30 times the federal minimum wage, or 10% if the debtor is a head of family and Missouri resident. Heads of family are protected at 90%. Court-ordered child support, tax debts, and bankruptcy-based garnishments have separate rules.</p></div></details>
+<details class="faq-item"><summary>Does the Missouri Merchandising Practices Act help debtors?</summary><div class="answer"><p>Yes, in some contexts. <a href="https://revisor.mo.gov/main/OneSection.aspx?section=407.020" rel="noopener" target="_blank">RSMo § 407.020</a> prohibits "deception, fraud, false pretense, false promise, misrepresentation, unfair practice or the concealment, suppression, or omission of any material fact" in trade or commerce. If a debt collector made misrepresentations about a debt, threatened action they couldn't take, or tried to collect on a debt they didn't own, MMPA may support a civil claim alongside the federal FDCPA. MMPA allows attorney's-fees recovery, which makes these cases economically viable for plaintiffs' consumer-protection attorneys to take on contingency.</p></div></details>
+</div></section>
+
+<div class="container">
+<div class="network">
+<h3>Related OBP Network Resources</h3>
+<div class="network-links">
+<a href="https://debtstatuteoflimitations.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">SOL by State</a>
+<a href="https://defaultjudgment.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Default Judgment</a>
+<a href="https://zombiedebt.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Zombie Debt</a>
+<a href="https://howtostopdebtcollectors.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Stop Collectors</a>
+<a href="https://stopwagegarnishment.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Wage Garnishment</a>
+<a href="https://debtbuyerrights.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Debt Buyer Rights</a>
+<a href="https://suedfordebt.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Sued for Debt</a>
+<a href="https://ceaseanddesistdebt.com/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Cease &amp; Desist</a>
+</div>
+</div>
+</div>
+
+<!-- Related Missouri Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related Missouri Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Bankruptcy Guide</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Exemptions</a></li>
+<li><a href="/districts.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Federal Districts</a></li>
+<li><a href="/judgments.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Judgments &amp; Bankruptcy</a></li>
+<li><a href="/wage-garnishment.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Wage Garnishment</a></li>
+</ul>
+</div>
+
+<!-- BTN:FOOTER:START -->
+<!-- SUBNAV:START --><nav class="subnav" aria-label="Deep content" style="background:#0d1117;border-top:1px solid #30363d;padding:1rem 0;margin-top:2rem"><div class="container" style="max-width:1200px;margin:0 auto;padding:0 1rem;text-align:center;font-size:0.9rem"><span style="color:#7d8590;margin-right:0.5rem">More Missouri law:</span><a href="/legal-aid.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Legal Aid</a><a href="/filing-practice.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Filing Practice</a><a href="/case-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Case Law</a><a href="/debt-collection-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Debt Collection</a><a href="/primary-sources.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Primary Sources</a></div></nav><!-- SUBNAV:END --><footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Statutes cited link to the <a href="https://revisor.mo.gov/" rel="noopener" target="_blank">Missouri Revisor of Statutes</a>.</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

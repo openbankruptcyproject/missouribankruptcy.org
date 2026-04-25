@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>What Filing Bankruptcy in Missouri Actually Looks Like - Practice Notes</title>
+<meta content="Practical overview of filing bankruptcy in Missouri: W.D. Mo. and E.D. Mo. division-level practice notes, Section 341 meeting video vs. in-person, in forma pauperis (IFP) fee waivers under 28 U.S.C. 1930(f), pro-se electronic filing (CM/ECF, eSR, EDSS), and Subchapter V small-business Chapter 11 timelines." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://missouribankruptcy.org/filing-practice.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is my Section 341 meeting in person or by video in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "It depends. Both Missouri bankruptcy districts moved Section 341 meetings to video (Zoom or telephone) during the 2020-2022 period. As of 2026, some meetings remain video and others have reverted to in-person depending on case type, division, and trustee. Your Section 341 meeting notice from the court tells you exactly where and how: if the notice lists a specific physical courthouse address, it is in-person; if it lists a Zoom link or call-in number, it is video or telephonic."}}, {"@type": "Question", "name": "Can I get a Chapter 7 filing fee waiver in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "Possibly. Under 28 U.S.C. Section 1930(f) and Judicial Conference guidelines, a Chapter 7 debtor whose household income is below 150% of the federal poverty guideline for the debtor's household size may apply for a filing fee waiver using Official Form 103B. The waiver is discretionary -- the court can deny it based on ability to pay in installments, recent gift transfers, or other factors. There is no IFP waiver for Chapter 13 -- Chapter 13 filers must pay the filing fee or qualify for an installment plan."}}, {"@type": "Question", "name": "How do I file bankruptcy electronically as a pro se debtor in Missouri?", "acceptedAnswer": {"@type": "Answer", "text": "W.D. Mo. uses CM/ECF at ecf.mowb.uscourts.gov; pro se filers can request a filer ID from the clerk. Filing fees are paid through pay.gov. E.D. Mo. offers two dedicated pro se tools: eSR (Electronic Self-Representation) for starting a new voluntary petition online, and EDSS (Electronic Document Submission System) for filings in an existing case. Both districts also accept in-person filings at the clerk's windows during business hours and have drop boxes for after-hours filings."}}, {"@type": "Question", "name": "What is Subchapter V bankruptcy and how is it different?", "acceptedAnswer": {"@type": "Answer", "text": "Subchapter V of Chapter 11 -- the small-business reorganization tool created by the Small Business Reorganization Act of 2019 -- is an expedited form of Chapter 11 for qualifying small businesses. A case-specific trustee is appointed from the UST Region 13 Sub V trustee pool; the trustee facilitates plan negotiation between debtor and creditors rather than liquidating. Key deadlines: status conference 60 days from filing (11 U.S.C. Section 1188), and the plan must be filed within 90 days absent extension (11 U.S.C. Section 1189). These short timelines mean decisions about operating cash, secured debt treatment, and plan economics must be made quickly."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Missouri Bankruptcy Practice Notes - What Filing Actually Looks Like", "description": "Division-level practice notes, 341 meeting modality, fee waivers, pro se electronic filing, and Subchapter V timelines for Missouri bankruptcy cases.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}, "datePublished": "2026-04-22", "dateModified": "2026-04-22", "mainEntityOfPage": "https://missouribankruptcy.org/filing-practice.html"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://missouribankruptcy.org"}, {"@type": "ListItem", "position": 2, "name": "Filing Practice", "item": "https://missouribankruptcy.org/filing-practice.html"}]}, {"@type": "WebPage", "name": "Missouri Bankruptcy Practice Notes", "url": "https://missouribankruptcy.org/filing-practice.html"}]}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.cite{color:#8b949e;font-size:0.9rem;margin-top:-8px;font-style:italic}
+.cite a{color:#58a6ff}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+.info-card{background:#1f6feb20;border:1px solid #1f6feb;border-radius:8px;padding:16px 20px;margin:20px 0;color:#f0f6fc}
+.info-card strong{color:#58a6ff}
+.warning-card{background:#d2992220;border:1px solid #d29922;border-radius:8px;padding:16px 20px;margin:20px 0;color:#f0f6fc}
+.warning-card strong{color:#d29922}
+@media(max-width:768px){.hero h1{font-size:1.7rem}}
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<meta content="https://missouribankruptcy.org/og-image.svg" property="og:image"/>
+<meta content="https://missouribankruptcy.org/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">Missouri Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="districts.html">Districts</a><a href="income-limits.html">Means Test</a><a href="exemptions.html">Exemptions</a><a href="trustees.html">Trustees</a><a href="legal-aid.html">Legal Aid</a><a href="case-law.html">Case Law</a><a href="resources.html">Resources</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://missouribankruptcy.org">Home</a><span class="separator">›</span><span>Filing Practice</span></nav>
+
+<div class="hero"><div class="container">
+<h1>What Filing Bankruptcy in Missouri Actually Looks Like</h1>
+<p class="subtitle">Statutes and rules describe the rules on paper. What happens in a Missouri bankruptcy case also depends on local court practice - which varies by division, sometimes by judge, and has shifted significantly since 2020.</p>
+</div></div>
+
+<section><div class="container">
+<h2>Kansas City Metro (W.D. Mo.) - The Volume Division</h2>
+<div class="card">
+<p>The Kansas City division of the U.S. Bankruptcy Court for the Western District of Missouri hears the largest share of W.D. Mo. cases. The court runs a regular <strong>Chapter 13 motion docket</strong> where routine motions (plan modifications, hardship discharges, plan-payment defaults) are called in batches.</p>
+<p>Chapter 13 plan payments <em>statewide</em> in W.D. Mo. route to <a href="https://wdmo13.com/" rel="noopener" target="_blank">Richard V. Fink's office</a> (the standing trustee) regardless of which division your case is in.</p>
+<p><strong>Jefferson City, St. Joseph, and Springfield</strong> are the other three W.D. Mo. divisions. Jefferson City covers central counties along the Missouri River corridor. St. Joseph handles the northwest counties including Buchanan. Springfield covers the southwest including Greene, Christian, and Taney Counties - the Ozarks. See <a href="/districts.html">Missouri federal districts</a> for the full breakdown.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>St. Louis Metro (E.D. Mo.) - The Eastern Division</h2>
+<div class="card">
+<p>The E.D. Mo. Eastern Division sits at the Thomas F. Eagleton U.S. Courthouse in downtown St. Louis. The Southeastern Division sits in Cape Girardeau, and the Northern Division in Hannibal. The St. Louis division hears the largest share of E.D. Mo. cases; Cape Girardeau and Hannibal handle regional rural filings and specific Southeast/Northeast county assignments.</p>
+<p>E.D. Mo. updated signature requirements for electronic filings in <strong>January 2024</strong> and has established video-conference procedures for certain hearings. Confirm current hearing modality against your notice.</p>
+<p>All E.D. Mo. Chapter 13 plan payments go to <a href="https://www.ch13stl.com/" rel="noopener" target="_blank">Diana S. Daugherty's office</a> (the standing trustee). See <a href="/trustees.html">trustees page</a> for full details.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Section 341 Meeting of Creditors - Video vs. In-Person</h2>
+<div class="card">
+<p>Both Missouri bankruptcy districts moved <a href="https://341meeting.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network" rel="noopener" target="_blank">§ 341 meetings</a> to video (Zoom / telephone) during the 2020-2022 period. As of 2026, <strong>some meetings remain video and others have reverted to in-person</strong> depending on case type, division, and trustee.</p>
+
+<div class="info-card">
+<p><strong>How to know for sure:</strong> your § 341 meeting notice from the court tells you exactly where and how your meeting will be conducted. If the notice lists a specific physical courthouse address, it is in-person. If it lists a Zoom link or call-in number, it is video or telephonic.</p>
+</div>
+
+<p>Show up on time whether in-person or video. Missing your § 341 is grounds for dismissal.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Filing Fee Waivers (IFP) - Chapter 7 Only</h2>
+<div class="card">
+<p>Under <a href="https://www.law.cornell.edu/uscode/text/28/1930" rel="noopener" target="_blank">28 U.S.C. § 1930(f)</a> and the accompanying Judicial Conference guidelines, a Chapter 7 debtor whose household income is <strong>below 150% of the federal poverty guideline</strong> for the debtor's household size may apply for a filing fee waiver using <strong>Official Form 103B</strong>.</p>
+<p>The waiver is <strong>discretionary</strong> - the court can deny it based on:</p>
+<ul>
+<li>Ability to pay in installments</li>
+<li>Recent gift transfers or asset dispositions</li>
+<li>Other factors suggesting the filer can afford the fee</li>
+</ul>
+
+<div class="warning-card">
+<p><strong>No IFP waiver for Chapter 13.</strong> Chapter 13 filers must pay the filing fee or qualify for an installment plan. If you are below 150% FPL and considering bankruptcy, Chapter 7 has a cost advantage you may not have in Chapter 13.</p>
+</div>
+
+<p>If the waiver is granted, the entire Chapter 7 filing fee is eliminated. If denied, installment payments over up to 120 days are the standard alternative.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Pro Se Electronic Filing - What to Do First</h2>
+<div class="card">
+<h3>W.D. Mo. - CM/ECF</h3>
+<p>Use <a href="https://ecf.mowb.uscourts.gov" rel="noopener" target="_blank">ecf.mowb.uscourts.gov</a>. Pro se filers can request a filer ID from the clerk's office. Filing fee payment is handled through <a href="https://pay.gov" rel="noopener" target="_blank">pay.gov</a>.</p>
+
+<h3>E.D. Mo. - eSR and EDSS</h3>
+<ul>
+<li><strong>eSR (Electronic Self-Representation)</strong> - for starting a new voluntary petition online.</li>
+<li><strong>EDSS (Electronic Document Submission System)</strong> - for uploading filings after a case is open.</li>
+</ul>
+
+<p>Both districts accept <strong>in-person filings</strong> at the clerk's windows during business hours, and both maintain <strong>drop boxes</strong> for after-hours filings. If your case is time-sensitive (e.g., eve of a garnishment or foreclosure), the in-person drop box is your backstop when electronic filing fails.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Subchapter V (Small Business Chapter 11) in Missouri</h2>
+<div class="card">
+<p>Sub V cases in Missouri are assigned a <strong>case-specific trustee</strong> appointed from the UST Region 13 Sub V trustee pool. The trustee functions as a mediator between debtor and creditors, more than a Chapter 7 liquidator - the role is to help reach a confirmable reorganization plan within the expedited Sub V timeline.</p>
+
+<h3>Key Sub V Deadlines</h3>
+<ul>
+<li><strong>Status conference:</strong> held not later than 60 days after order for relief (<a href="https://www.law.cornell.edu/uscode/text/11/1188" rel="noopener" target="_blank">11 U.S.C. § 1188</a>)</li>
+<li><strong>Plan filing:</strong> debtor must file a plan not later than 90 days after order for relief, absent extension for circumstances beyond debtor's control (<a href="https://www.law.cornell.edu/uscode/text/11/1189" rel="noopener" target="_blank">11 U.S.C. § 1189</a>)</li>
+</ul>
+
+<div class="warning-card">
+<p>Sub V cases in the 8th Circuit grew about 275% in Q1 2024 vs. Q1 2023 (Thompson Coburn, "Subchapter V Practice in the Eighth Circuit: The First Four Years" (May 2024)). Small-business debtors considering Sub V should understand that the expedited timeline means decisions about operating cash, secured debt treatment, and plan economics must be made <strong>quickly</strong> - often before counsel has full visibility into the case.</p>
+</div>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Quick Reference</h2>
+<div class="card">
+<table>
+<tr><th>Topic</th><th>Rule / Statute</th><th>Practical Note</th></tr>
+<tr><td>Ch. 7 IFP fee waiver threshold</td><td>28 U.S.C. § 1930(f); Form 103B</td><td>Below 150% FPL; discretionary</td></tr>
+<tr><td>Installment plan (if IFP denied)</td><td>FRBP 1006(b)</td><td>Up to 120 days</td></tr>
+<tr><td>§ 341 meeting modality</td><td>Check your notice</td><td>Video or in-person; varies by case</td></tr>
+<tr><td>W.D. Mo. pro se e-filing</td><td>CM/ECF</td><td>ecf.mowb.uscourts.gov; filer ID from clerk</td></tr>
+<tr><td>E.D. Mo. pro se e-filing (new case)</td><td>eSR</td><td>Start new voluntary petition online</td></tr>
+<tr><td>E.D. Mo. pro se e-filing (existing case)</td><td>EDSS</td><td>Upload to open case</td></tr>
+<tr><td>Sub V status conference</td><td>11 U.S.C. § 1188</td><td>Within 60 days of OFR</td></tr>
+<tr><td>Sub V plan filing</td><td>11 U.S.C. § 1189</td><td>Within 90 days absent extension</td></tr>
+</table>
+<p class="cite">Last verified 2026-04-22.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>Is my Section 341 meeting in person or by video in Missouri?</summary><div class="answer"><p>It depends. Both Missouri bankruptcy districts moved § 341 meetings to video (Zoom or telephone) during the 2020-2022 period. As of 2026, some meetings remain video and others have reverted to in-person depending on case type, division, and trustee. Your § 341 meeting notice from the court tells you exactly where and how: if the notice lists a specific physical courthouse address, it is in-person; if it lists a Zoom link or call-in number, it is video or telephonic.</p></div></details>
+<details class="faq-item"><summary>Can I get a Chapter 7 filing fee waiver in Missouri?</summary><div class="answer"><p>Possibly. Under <a href="https://www.law.cornell.edu/uscode/text/28/1930" rel="noopener" target="_blank">28 U.S.C. § 1930(f)</a> and Judicial Conference guidelines, a Chapter 7 debtor whose household income is <strong>below 150% of the federal poverty guideline</strong> for the debtor's household size may apply for a filing fee waiver using Official Form 103B. The waiver is discretionary. <strong>There is no IFP waiver for Chapter 13</strong> - Chapter 13 filers must pay the filing fee or qualify for an installment plan.</p></div></details>
+<details class="faq-item"><summary>How do I file bankruptcy electronically as a pro se debtor in Missouri?</summary><div class="answer"><p>W.D. Mo. uses CM/ECF at <a href="https://ecf.mowb.uscourts.gov" rel="noopener" target="_blank">ecf.mowb.uscourts.gov</a>; pro se filers can request a filer ID from the clerk. Filing fees are paid through <a href="https://pay.gov" rel="noopener" target="_blank">pay.gov</a>. E.D. Mo. offers two dedicated pro se tools: <strong>eSR</strong> (Electronic Self-Representation) for starting a new voluntary petition online, and <strong>EDSS</strong> (Electronic Document Submission System) for filings in an existing case. Both districts also accept in-person filings and have drop boxes for after-hours filings.</p></div></details>
+<details class="faq-item"><summary>What is Subchapter V bankruptcy and how is it different?</summary><div class="answer"><p>Subchapter V of Chapter 11 is an expedited form of Chapter 11 for qualifying small businesses (created by the Small Business Reorganization Act of 2019). A case-specific trustee is appointed from the UST Region 13 Sub V trustee pool; the trustee facilitates plan negotiation rather than liquidating. Key deadlines: <strong>status conference 60 days</strong> from filing (<a href="https://www.law.cornell.edu/uscode/text/11/1188" rel="noopener" target="_blank">11 U.S.C. § 1188</a>); <strong>plan filing within 90 days</strong> absent extension (<a href="https://www.law.cornell.edu/uscode/text/11/1189" rel="noopener" target="_blank">11 U.S.C. § 1189</a>). Short timelines mean strategic decisions happen fast.</p></div></details>
+</div></section>
+
+<div class="container">
+<div class="network">
+<h3>Related OBP Network Resources</h3>
+<div class="network-links">
+<a href="https://341meeting.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">341 Meeting</a>
+<a href="https://voluntarypetition.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Voluntary Petition</a>
+<a href="https://howtofilebankruptcy.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">How to File</a>
+<a href="https://prosebankruptcy.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Pro Se Bankruptcy</a>
+<a href="https://section1191.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Sub V § 1191</a>
+<a href="https://section1192.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Sub V § 1192</a>
+<a href="https://chapter13plan.org/?utm_source=missouribankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Ch. 13 Plan</a>
+</div>
+</div>
+</div>
+
+<!-- Related Missouri Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related Missouri Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri Bankruptcy Guide</a></li>
+<li><a href="/districts.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Districts</a></li>
+<li><a href="/trustees.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Trustees</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Exemptions</a></li>
+<li><a href="/cost.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Cost</a></li>
+</ul>
+</div>
+
+<!-- BTN:FOOTER:START -->
+<!-- SUBNAV:START --><nav class="subnav" aria-label="Deep content" style="background:#0d1117;border-top:1px solid #30363d;padding:1rem 0;margin-top:2rem"><div class="container" style="max-width:1200px;margin:0 auto;padding:0 1rem;text-align:center;font-size:0.9rem"><span style="color:#7d8590;margin-right:0.5rem">More Missouri law:</span><a href="/legal-aid.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Legal Aid</a><a href="/filing-practice.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Filing Practice</a><a href="/case-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Case Law</a><a href="/debt-collection-law.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Debt Collection</a><a href="/primary-sources.html" style="color:#58a6ff;margin:0 0.6rem;text-decoration:none">Primary Sources</a></div></nav><!-- SUBNAV:END --><footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Court procedure information is linked to the official W.D. Mo. and E.D. Mo. websites. Statute citations link to Cornell Law's Legal Information Institute.</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
